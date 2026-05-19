@@ -79,7 +79,7 @@ export default function RootLayout({
           <div className="mx-auto max-w-6xl px-4 text-center text-sm text-zinc-500">
             <p>🎮 GameHub · 免费在线游戏导航</p>
             <p className="mt-1 text-xs text-zinc-400">
-              数据来源: CrazyGames, Poki, itch.io · 所有游戏版权归原作者
+              发现好游戏，在线畅玩
             </p>
           </div>
         </footer>
