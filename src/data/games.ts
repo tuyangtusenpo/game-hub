@@ -39,6 +39,18 @@ export const categories: Category[] = [
 
 /** Get the latest scan JSON file path */
 function getLatestScanPath(): string {
+  // Try local project path first
+  const localDir = path.resolve('src/data');
+  try {
+    const files = readdirSync(localDir).filter(f => f.startsWith('scan-') && f.endsWith('.json'));
+    if (files.length > 0) {
+      files.sort().reverse();
+      return path.join(localDir, files[0]);
+    }
+  } catch {
+    // not found
+  }
+  // Fallback to D: drive (local dev only)
   const dir = 'D:/code/web/game-radar';
   try {
     const files = readdirSync(dir).filter(f => f.startsWith('scan-') && f.endsWith('.json'));
@@ -47,9 +59,9 @@ function getLatestScanPath(): string {
       return path.join(dir, files[0]);
     }
   } catch {
-    // directory not found
+    // not found
   }
-  return path.resolve(dir, 'scan-2026-05-19.json');
+  return path.resolve('src/data/scan-2026-05-19.json');
 }
 
 // Try loading game data from JSON

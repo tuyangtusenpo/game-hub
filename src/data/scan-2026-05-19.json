@@ -1,0 +1,1099 @@
+{
+  "scan_date": "2026-05-19",
+  "total_games": 166,
+  "sources": {
+    "itch.io": 36,
+    "CrazyGames": 70,
+    "Poki": 60
+  },
+  "top_recommendations": [
+    {
+      "title": "STREET DRIVER: NEON RADIO EDITION",
+      "url": "",
+      "source": "itch.io",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 4,
+      "opportunity": 25.0
+    },
+    {
+      "title": "Doodle RPG Survivor",
+      "url": "https://www.crazygames.com/game/doodle-rpg-survivor",
+      "source": "CrazyGames",
+      "score": 95,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 152,
+      "opportunity": 0.6579
+    },
+    {
+      "title": "Ragdoll Factory Idle",
+      "url": "https://www.crazygames.com/game/ragdoll-factory-idle",
+      "source": "CrazyGames",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 308,
+      "opportunity": 0.3247
+    },
+    {
+      "title": "Gang Merge & Fight",
+      "url": "https://www.crazygames.com/game/gang-merge-fight",
+      "source": "CrazyGames",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 342,
+      "opportunity": 0.2924
+    },
+    {
+      "title": "Pickaxe Crusher Idle",
+      "url": "https://www.crazygames.com/game/pickaxe-crusher-idle",
+      "source": "CrazyGames",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 513,
+      "opportunity": 0.1949
+    }
+  ],
+  "all_games": [
+    {
+      "title": "STREET DRIVER: NEON RADIO EDITION",
+      "url": "",
+      "source": "itch.io",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 4,
+      "opportunity": 25.0
+    },
+    {
+      "title": "Doodle RPG Survivor",
+      "url": "https://www.crazygames.com/game/doodle-rpg-survivor",
+      "source": "CrazyGames",
+      "score": 95,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 152,
+      "opportunity": 0.6579
+    },
+    {
+      "title": "Ragdoll Factory Idle",
+      "url": "https://www.crazygames.com/game/ragdoll-factory-idle",
+      "source": "CrazyGames",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 308,
+      "opportunity": 0.3247
+    },
+    {
+      "title": "Gang Merge & Fight",
+      "url": "https://www.crazygames.com/game/gang-merge-fight",
+      "source": "CrazyGames",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 342,
+      "opportunity": 0.2924
+    },
+    {
+      "title": "Pickaxe Crusher Idle",
+      "url": "https://www.crazygames.com/game/pickaxe-crusher-idle",
+      "source": "CrazyGames",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 513,
+      "opportunity": 0.1949
+    },
+    {
+      "title": "Monster Mixer Idle",
+      "url": "https://www.crazygames.com/game/monster-mixer-idle",
+      "source": "CrazyGames",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 735,
+      "opportunity": 0.1361
+    },
+    {
+      "title": "Idle Gun Survivor",
+      "url": "https://www.crazygames.com/game/idle-gun-survivor",
+      "source": "CrazyGames",
+      "score": 95,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 3510,
+      "opportunity": 0.0285
+    },
+    {
+      "title": "Jurassic Merge: Dino Evolution",
+      "url": "https://www.crazygames.com/game/jurassic-merge-dino-evolution",
+      "source": "CrazyGames",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 4590,
+      "opportunity": 0.0218
+    },
+    {
+      "title": "Steal Brainrot Survivors",
+      "url": "https://www.crazygames.com/game/steal-brainrot-survivors-ddq",
+      "source": "CrazyGames",
+      "score": 80,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 5030,
+      "opportunity": 0.0199
+    },
+    {
+      "title": "Fortress Merge",
+      "url": "https://www.crazygames.com/game/fortress-merge",
+      "source": "CrazyGames",
+      "score": 75,
+      "trends_peak": 0,
+      "trends_avg": 0.0,
+      "serp_count": 52000,
+      "opportunity": 0.0019
+    },
+    {
+      "title": "Watermelon Fruit Merge Saga",
+      "url": "https://www.crazygames.com/game/watermelon-fruit-merge-saga",
+      "source": "CrazyGames",
+      "score": 75
+    },
+    {
+      "title": "Bubble Tower",
+      "url": "https://poki.com/en/g/bubble-tower",
+      "source": "Poki",
+      "score": 75
+    },
+    {
+      "title": "Zombie Merge",
+      "url": "https://poki.com/en/g/zombie-merge",
+      "source": "Poki",
+      "score": 75
+    },
+    {
+      "title": "Tower Emoji Defense",
+      "url": "https://poki.com/en/g/tower-emoji-defense",
+      "source": "Poki",
+      "score": 75
+    },
+    {
+      "title": "Jane's Fashion Studio",
+      "url": "https://poki.com/en/g/janes-fashion-studio",
+      "source": "Poki",
+      "score": 75
+    },
+    {
+      "title": "Jelly Fruit Merge",
+      "url": "https://poki.com/en/g/jelly-fruit-merge",
+      "source": "Poki",
+      "score": 75
+    },
+    {
+      "title": "Battle Fleet World",
+      "url": "https://www.crazygames.com/game/battle-fleet-world-qzp",
+      "source": "CrazyGames",
+      "score": 70
+    },
+    {
+      "title": "Life Simulator: Road to Riches",
+      "url": "https://www.crazygames.com/game/life-simulator-road-to-riches",
+      "source": "CrazyGames",
+      "score": 70
+    },
+    {
+      "title": "Stickman Shooter: Level Up",
+      "url": "https://www.crazygames.com/game/stickman-shooter-level-up",
+      "source": "CrazyGames",
+      "score": 70
+    },
+    {
+      "title": "Battle Brigade",
+      "url": "https://www.crazygames.com/game/battle-brigade",
+      "source": "CrazyGames",
+      "score": 70
+    },
+    {
+      "title": "Truck Simulator: European Roads",
+      "url": "https://www.crazygames.com/game/truck-simulator-european-roads",
+      "source": "CrazyGames",
+      "score": 70
+    },
+    {
+      "title": "Knockout Legends: Battle Streets",
+      "url": "https://www.crazygames.com/game/knockout-legends-battle-streets",
+      "source": "CrazyGames",
+      "score": 70
+    },
+    {
+      "title": "Stickman Battle",
+      "url": "https://poki.com/en/g/stickman-battle",
+      "source": "Poki",
+      "score": 70
+    },
+    {
+      "title": "Satisbox Builder",
+      "url": "https://poki.com/en/g/satisbox-builder",
+      "source": "Poki",
+      "score": 70
+    },
+    {
+      "title": "Fashion Tour Simulator",
+      "url": "https://poki.com/en/g/fashion-tour-simulator",
+      "source": "Poki",
+      "score": 70
+    },
+    {
+      "title": "Magic Battleground",
+      "url": "https://poki.com/en/g/magic-battleground",
+      "source": "Poki",
+      "score": 70
+    },
+    {
+      "title": "Crazy Merge",
+      "url": "https://poki.com/en/g/crazy-merge",
+      "source": "Poki",
+      "score": 65
+    },
+    {
+      "title": "Blossoms of Wealth Demo",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "One night at hound dogs 3: INSANITY",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "DeepWaters_v2",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "EmojiTrainer",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Fulbo Stars ⚽ Party Demo",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Star Truck - A New Scoop",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Chess Adventures",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "The Great Temple",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "You Might Also Like",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "10 Second Judge",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Ragatha's Pony Adventure | TADC",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Block Mining Prototype",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Flags for Freedom",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Pixels of the Past: Fruit Ninja Edition",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Emoji Match Tetris",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "GamePadGame V1",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "The Dollmaker",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Micro Drift Box",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Lucky Wheel Raffle",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "soul_punk.exe",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Mine Escape v1.0",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Continental Rails",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "King's Dessert",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "ant1virus.exe",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Jogo casa dos segredos",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Taiko Kat Adventure",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Every 10 seconds you need to press a BIG BUTTON or the world EXPLODES!",
+      "url": "",
+      "source": "itch.io",
+      "score": 60
+    },
+    {
+      "title": "Gameloft Sports Minigame Collection",
+      "url": "https://www.crazygames.com/game/gameloft-sports-minigame-collection",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Tank Evolution",
+      "url": "https://www.crazygames.com/game/tank-evolution",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Pinball Mania",
+      "url": "https://www.crazygames.com/game/pinball-mania-grv",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Cars vs Zombies",
+      "url": "https://www.crazygames.com/game/cars-vs-zombies",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Fluid Enigma",
+      "url": "https://www.crazygames.com/game/fluid-enigma-ulq",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Swarm Together",
+      "url": "https://www.crazygames.com/game/swarm-together",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Earn to Die: New Ride",
+      "url": "https://www.crazygames.com/game/earn-to-die-new-ride",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Fun Ragdoll Challenge!",
+      "url": "https://www.crazygames.com/game/fun-ragdoll-challenge",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Cubes 2048 Royale",
+      "url": "https://www.crazygames.com/game/cubes-2048-royale",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Sandbox: Particle World",
+      "url": "https://www.crazygames.com/game/sandbox-particle-world",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Find The Cow",
+      "url": "https://www.crazygames.com/game/find-the-cow-lqn",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Monkey School Prank",
+      "url": "https://www.crazygames.com/game/i-am-monkey-school-pranskter",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Zombie Protocol",
+      "url": "https://www.crazygames.com/game/zombie-protocol",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Surf GO Parkour",
+      "url": "https://www.crazygames.com/game/surf-go-parkour",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Ladder to Brainhot: Climb",
+      "url": "https://www.crazygames.com/game/ladder-to-brainhot-climb",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Spot the Difference Forever",
+      "url": "https://www.crazygames.com/game/spot-the-difference-forever",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Destructors Online",
+      "url": "https://www.crazygames.com/game/destructors-online",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Sudoku Classic & Killer",
+      "url": "https://www.crazygames.com/game/sudoku-classic-killer",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "I Am Quadrober!",
+      "url": "https://www.crazygames.com/game/i-am-quadrober",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "My Perfect Theme Park",
+      "url": "https://www.crazygames.com/game/my-theme-park-hka",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Trash Master",
+      "url": "https://www.crazygames.com/game/trash-master-rpk",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Bills Must Be Paid",
+      "url": "https://www.crazygames.com/game/bills-must-be-paid",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Soldiers - Capture and Control!",
+      "url": "https://www.crazygames.com/game/soldiers---capture-and-control",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Cart Ride Danger Mount",
+      "url": "https://www.crazygames.com/game/cart-ride-danger-mount",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Cowboy Lasso Master",
+      "url": "https://www.crazygames.com/game/cowboy-lasso-hunting-idle-tycoon",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Farm-51: Secret Harvest",
+      "url": "https://www.crazygames.com/game/farm-51-secret-harvest",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Stellar Bastion",
+      "url": "https://www.crazygames.com/game/stellar-bastion",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Break a Lucky Egg Brainrots",
+      "url": "https://www.crazygames.com/game/break-a-lucky-egg-brainrots",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Cat Snack Bar",
+      "url": "https://www.crazygames.com/game/cat-snack-bar",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Racing: Online!",
+      "url": "https://www.crazygames.com/game/racing-online-fph",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Shatter Knight",
+      "url": "https://www.crazygames.com/game/shatter-knight",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "My Perfect Farm",
+      "url": "https://www.crazygames.com/game/my-perfect-farm",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Magnet Balls: Addictive",
+      "url": "https://www.crazygames.com/game/magnet-balls-addictive-zps",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Sticky Orbit",
+      "url": "https://www.crazygames.com/game/sticky-orbit",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Ring Restaurant",
+      "url": "https://www.crazygames.com/game/ring-restaurant",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "Run and Jump for Brainrot",
+      "url": "https://www.crazygames.com/game/run-and-jump-for-brainrot",
+      "source": "CrazyGames",
+      "score": 60
+    },
+    {
+      "title": "GoBattle 2",
+      "url": "https://poki.com/en/g/gobattle2",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Subway Surfers",
+      "url": "https://poki.com/en/g/subway-surfers",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Stickman Hook",
+      "url": "https://poki.com/en/g/stickman-hook",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Blocky Blast Puzzle",
+      "url": "https://poki.com/en/g/blocky-blast-puzzle",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Cozyville - Find Hidden Objects",
+      "url": "https://poki.com/en/g/cozyville-find-hidden-objects",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Guns Guns Guns",
+      "url": "https://poki.com/en/g/guns-guns-guns",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "World of Yarn",
+      "url": "https://poki.com/en/g/world-of-yarn",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Supercar Legends",
+      "url": "https://poki.com/en/g/supercar-legends",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Carnado Bike Stunt",
+      "url": "https://poki.com/en/g/carnado-bike-stunt",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Snacky Snake",
+      "url": "https://poki.com/en/g/snacky-snake",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Wheel Master",
+      "url": "https://poki.com/en/g/wheel-master",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Astro Rancher",
+      "url": "https://poki.com/en/g/astro-rancher",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "DIY Desk Designer",
+      "url": "https://poki.com/en/g/diy-desk-designer",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Lips Diy Master",
+      "url": "https://poki.com/en/g/lips-diy-master",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Blast Buddies",
+      "url": "https://poki.com/en/g/blast-buddies",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Going Up Rooftop",
+      "url": "https://poki.com/en/g/going-up-rooftop",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Rail in the Air",
+      "url": "https://poki.com/en/g/rail-in-the-air",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Soccer Skills 2 World Cup",
+      "url": "https://poki.com/en/g/soccer-skills-2-world-cup",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Dino Fighter",
+      "url": "https://poki.com/en/g/dino-fighter",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Cleanup Crew",
+      "url": "https://poki.com/en/g/cleanup-crew",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Pixel Perfect",
+      "url": "https://poki.com/en/g/pixel-perfect",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Tricky Witch",
+      "url": "https://poki.com/en/g/tricky-witch",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "KPop Concert Dress Up",
+      "url": "https://poki.com/en/g/kpop-concert-dress-up",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Real City Bikes",
+      "url": "https://poki.com/en/g/real-city-bikes",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Knockout Penguins",
+      "url": "https://poki.com/en/g/knockout-penguins",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Freaky Clown Town Mystery",
+      "url": "https://poki.com/en/g/freaky-clown-town-mystery",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Skill Knight",
+      "url": "https://poki.com/en/g/skill-knight",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Wreck The Robot",
+      "url": "https://poki.com/en/g/wreck-the-robot",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Tictoc Catwalk Fashion",
+      "url": "https://poki.com/en/g/tictoc-catwalk-fashion",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Tuning Car Racing",
+      "url": "https://poki.com/en/g/tuning-car-racing",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Alien Raid Monster Evolution",
+      "url": "https://poki.com/en/g/alien-raid-monster-evolution",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "Flat Baseball",
+      "url": "https://poki.com/en/g/flat-baseball",
+      "source": "Poki",
+      "score": 60
+    },
+    {
+      "title": "​血華の系譜",
+      "url": "",
+      "source": "itch.io",
+      "score": 50
+    },
+    {
+      "title": "Pokétone",
+      "url": "",
+      "source": "itch.io",
+      "score": 50
+    },
+    {
+      "title": "Sci-Fi 2600",
+      "url": "",
+      "source": "itch.io",
+      "score": 50
+    },
+    {
+      "title": "Virus-War",
+      "url": "",
+      "source": "itch.io",
+      "score": 50
+    },
+    {
+      "title": "Plinko",
+      "url": "",
+      "source": "itch.io",
+      "score": 50
+    },
+    {
+      "title": "Cubidom",
+      "url": "",
+      "source": "itch.io",
+      "score": 50
+    },
+    {
+      "title": "AIUBEDash",
+      "url": "",
+      "source": "itch.io",
+      "score": 50
+    },
+    {
+      "title": "The Beast",
+      "url": "",
+      "source": "itch.io",
+      "score": 50
+    },
+    {
+      "title": "Hangman",
+      "url": "https://www.crazygames.com/game/hangman-cfc",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Arrows",
+      "url": "https://www.crazygames.com/game/arrows-bmj",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Basket Cats",
+      "url": "https://www.crazygames.com/game/basket-cats",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Capy Cafe",
+      "url": "https://www.crazygames.com/game/capy-cafe",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Farm Drones",
+      "url": "https://www.crazygames.com/game/farm-drones",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Ball Roll",
+      "url": "https://www.crazygames.com/game/ball-roll-bbr",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Blast Miner",
+      "url": "https://www.crazygames.com/game/blast-miner",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Zen Mower",
+      "url": "https://www.crazygames.com/game/zen-mower",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Chaos Arena",
+      "url": "https://www.crazygames.com/game/chaos-arena",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Pikto.fun",
+      "url": "https://www.crazygames.com/game/pikto-fun",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Mad Pursuit",
+      "url": "https://www.crazygames.com/game/mad-pursuit-zhp",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Hivebound",
+      "url": "https://www.crazygames.com/game/hivebound",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Ice Slide",
+      "url": "https://www.crazygames.com/game/ice-slide",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Donut Place",
+      "url": "https://www.crazygames.com/game/donut-place",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Trash Flow",
+      "url": "https://www.crazygames.com/game/trash-flow",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Lucky Block",
+      "url": "https://www.crazygames.com/game/lucky-block-ova",
+      "source": "CrazyGames",
+      "score": 50
+    },
+    {
+      "title": "Ludo King",
+      "url": "https://poki.com/en/g/ludo-king",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Drive Mad",
+      "url": "https://poki.com/en/g/drive-mad",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Drift Boss",
+      "url": "https://poki.com/en/g/drift-boss",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Retro Bowl",
+      "url": "https://poki.com/en/g/retro-bowl",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Monkey Mart",
+      "url": "https://poki.com/en/g/monkey-mart",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Level Devil",
+      "url": "https://poki.com/en/g/level-devil",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Bunny Miner",
+      "url": "https://poki.com/en/g/bunny-miner",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Zombit",
+      "url": "https://poki.com/en/g/zombit",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Goal Gang",
+      "url": "https://poki.com/en/g/goal-gang",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Count War",
+      "url": "https://poki.com/en/g/count-war",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Punchy Guy",
+      "url": "https://poki.com/en/g/punchy-guy",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Decor Life",
+      "url": "https://poki.com/en/g/decor-life",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Push Titans",
+      "url": "https://poki.com/en/g/push-titans",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Free Skate",
+      "url": "https://poki.com/en/g/free-skate",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Sword Road",
+      "url": "https://poki.com/en/g/sword-road",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Metamon",
+      "url": "https://poki.com/en/g/metamon",
+      "source": "Poki",
+      "score": 50
+    },
+    {
+      "title": "Honk",
+      "url": "https://www.crazygames.com/game/honk",
+      "source": "CrazyGames",
+      "score": 40
+    },
+    {
+      "title": "KS Z",
+      "url": "https://www.crazygames.com/game/ks-z",
+      "source": "CrazyGames",
+      "score": 40
+    },
+    {
+      "title": "Tag",
+      "url": "https://poki.com/en/g/tag",
+      "source": "Poki",
+      "score": 40
+    },
+    {
+      "title": "Ogus",
+      "url": "https://poki.com/en/g/ogus",
+      "source": "Poki",
+      "score": 40
+    }
+  ]
+}
