@@ -41,8 +41,8 @@ export default async function GameDetailPage({ params }: PageProps) {
     .filter((g) => relatedGames.has(g.title))
     .slice(0, 6);
 
-  // Determine embed URL (try to make the original game URL embeddable)
-  const embedUrl = game.url;
+  // Only Poki games can be embedded via iframe
+  const canEmbed = game.source === "Poki";
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-6">
@@ -82,17 +82,47 @@ export default async function GameDetailPage({ params }: PageProps) {
         </div>
       </div>
 
-      {/* Game iframe */}
-      {embedUrl && (
+      {/* Game Area: iframe for Poki, play button + cover for others */}
+      {canEmbed ? (
         <div className="mb-6 rounded-xl overflow-hidden border border-zinc-200 bg-black shadow-lg">
           <iframe
-            src={embedUrl}
+            src={game.url}
             className="w-full h-[500px] sm:h-[600px]"
             allow="autoplay; fullscreen; clipboard-read; clipboard-write"
             allowFullScreen
             sandbox="allow-scripts allow-same-origin allow-popups allow-forms allow-presentation"
             title={game.title}
           />
+        </div>
+      ) : (
+        <div className="mb-6 rounded-xl overflow-hidden border border-zinc-200 bg-zinc-900 shadow-lg relative">
+          {/* Cover image as background */}
+          {game.image ? (
+            <div
+              className="w-full h-[350px] sm:h-[450px] bg-cover bg-center"
+              style={{ backgroundImage: `url(${game.image})`, filter: "blur(8px)", opacity: 0.4 }}
+            />
+          ) : (
+            <div className="w-full h-[350px] sm:h-[450px] bg-zinc-800" />
+          )}
+          {/* Play button overlay */}
+          <div className="absolute inset-0 flex flex-col items-center justify-center gap-4">
+            {game.image && (
+              <img
+                src={game.image}
+                alt={game.title}
+                className="w-48 h-48 sm:w-64 sm:h-64 object-cover rounded-2xl shadow-2xl border-2 border-white/10"
+              />
+            )}
+            <a
+              href={game.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-full bg-indigo-600 px-8 py-3 text-lg font-semibold text-white transition hover:bg-indigo-700 hover:scale-105 shadow-lg"
+            >
+              ▶ 前往 {game.source} 畅玩
+            </a>
+          </div>
         </div>
       )}
 
@@ -129,6 +159,16 @@ export default async function GameDetailPage({ params }: PageProps) {
                   ))}
                 </div>
               </div>
+            )}
+            {!canEmbed && (
+              <a
+                href={game.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 rounded-lg bg-indigo-50 px-3 py-2 text-xs font-medium text-indigo-700 hover:bg-indigo-100 transition"
+              >
+                ↗ 在 {game.source} 上打开
+              </a>
             )}
           </div>
         </div>
