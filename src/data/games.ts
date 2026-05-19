@@ -8,6 +8,7 @@ export interface Game {
   score: number;
   image: string;       // og:image cover URL
   description: string;  // og:description / short intro
+  embed_url?: string;   // real iframe embed source
 }
 
 export interface Category {
