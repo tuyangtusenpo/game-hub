@@ -6,10 +6,8 @@ export interface Game {
   url: string;
   source: string;
   score: number;
-  trends_peak: number;
-  trends_avg: number;
-  serp_count: number;
-  opportunity: number;
+  image: string;       // og:image cover URL
+  description: string;  // og:description / short intro
 }
 
 export interface Category {
@@ -26,7 +24,7 @@ export const categories: Category[] = [
   { slug: 'shooter', name: '射击', description: '瞄准射击，消灭敌人的爽快射击体验', keywords: ['shooter', 'shoot', 'gun', 'bullet', 'sniper', 'war', 'battle'] },
   { slug: 'puzzle', name: '益智 / 解谜', description: '动脑思考，解开精巧谜题的益智游戏', keywords: ['puzzle', 'match', 'block', 'tetris', '2048', 'brain', 'quiz', 'word', 'memory'] },
   { slug: 'racing', name: '赛车 / 竞速', description: '极速狂飙，体验速度与激情的竞速游戏', keywords: ['race', 'racing', 'drive', 'drift', 'car', 'speed', 'turbo', 'wheels'] },
-  { slug: 'simulator', name: '模拟 / 模拟器', description: '模拟真实或奇幻场景的沉浸式模拟游戏', keywords: ['simulator', 'sim', 'virtual'] },
+  { slug: 'simulator', name: '模拟', description: '模拟真实或奇幻场景的沉浸式模拟游戏', keywords: ['simulator', 'sim', 'virtual'] },
   { slug: 'rpg', name: '角色扮演', description: '扮演英雄角色，展开史诗冒险的RPG游戏', keywords: ['rpg', 'role', 'adventure', 'hero', 'quest', 'dungeon', 'warrior', 'magic'] },
   { slug: 'defense', name: '塔防 / 防守', description: '建造防御工事，抵御敌人进攻的策略游戏', keywords: ['defense', 'defence', 'defend', 'tower', 'fortress', 'base', 'shield'] },
   { slug: 'battle', name: '对战 / 格斗', description: '与对手或Boss对战，比拼技巧的格斗游戏', keywords: ['battle', 'fight', 'combat', 'arena', 'duel', 'war', 'warrior'] },
@@ -39,7 +37,7 @@ export const categories: Category[] = [
 
 /** Get the latest scan JSON file path */
 function getLatestScanPath(): string {
-  // Try local project path first
+  // Check project src/data directory
   const localDir = path.resolve('src/data');
   try {
     const files = readdirSync(localDir).filter(f => f.startsWith('scan-') && f.endsWith('.json'));
@@ -50,17 +48,7 @@ function getLatestScanPath(): string {
   } catch {
     // not found
   }
-  // Fallback to D: drive (local dev only)
-  const dir = 'D:/code/web/game-radar';
-  try {
-    const files = readdirSync(dir).filter(f => f.startsWith('scan-') && f.endsWith('.json'));
-    if (files.length > 0) {
-      files.sort().reverse();
-      return path.join(dir, files[0]);
-    }
-  } catch {
-    // not found
-  }
+  // Fallback: scan-2026-05-20.json as shipped static file
   return path.resolve('src/data/scan-2026-05-19.json');
 }
 

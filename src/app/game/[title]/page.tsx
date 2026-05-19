@@ -12,8 +12,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const game = getGameByTitle(title);
   if (!game) return { title: "游戏未找到 - GameHub" };
   return {
-    title: `${game.title} - GameHub 游戏导航`,
-    description: `${game.title} - 来自 ${game.source} 的免费在线游戏，信号分 ${game.score}，SERP ${game.serp_count}`,
+    title: `${game.title} - GameHub 在线玩`,
+    description: game.description || `${game.title} - 免费在线游戏，立即畅玩`,
   };
 }
 
@@ -22,7 +22,7 @@ export default async function GameDetailPage({ params }: PageProps) {
   const game = getGameByTitle(title);
   if (!game) notFound();
 
-  // Find which category this game belongs to
+  // Find matching categories
   const matchingCategories = categories.filter((cat) =>
     cat.keywords.some((kw) => game.title.toLowerCase().includes(kw))
   );
@@ -41,10 +41,13 @@ export default async function GameDetailPage({ params }: PageProps) {
     .filter((g) => relatedGames.has(g.title))
     .slice(0, 6);
 
+  // Determine embed URL (try to make the original game URL embeddable)
+  const embedUrl = game.url;
+
   return (
-    <div className="mx-auto max-w-4xl px-4 py-8">
+    <div className="mx-auto max-w-5xl px-4 py-6">
       {/* Breadcrumb */}
-      <nav className="mb-6 text-sm text-zinc-400">
+      <nav className="mb-4 text-sm text-zinc-400">
         <Link href="/" className="hover:text-indigo-600">首页</Link>
         <span className="mx-2">/</span>
         {matchingCategories.length > 0 && (
@@ -58,92 +61,108 @@ export default async function GameDetailPage({ params }: PageProps) {
         <span className="text-zinc-700">{game.title}</span>
       </nav>
 
-      {/* Game Detail Card */}
-      <div className="rounded-2xl border border-zinc-200 bg-white p-6 shadow-sm sm:p-8">
+      {/* Game Title & Tags */}
+      <div className="mb-4">
         <h1 className="text-2xl font-bold text-zinc-900 sm:text-3xl">
           {game.title}
         </h1>
-
-        {/* Meta Tags */}
-        <div className="mt-4 flex flex-wrap gap-3">
-          <span className="inline-flex items-center rounded-full bg-indigo-50 px-3 py-1 text-sm font-medium text-indigo-700">
+        <div className="mt-2 flex flex-wrap gap-2">
+          <span className="inline-flex items-center rounded-full bg-indigo-50 px-3 py-1 text-xs font-medium text-indigo-700">
             {game.source}
           </span>
           {matchingCategories.map((cat) => (
             <Link
               key={cat.slug}
               href={`/${cat.slug}`}
-              className="inline-flex items-center rounded-full bg-zinc-100 px-3 py-1 text-sm text-zinc-600 hover:bg-zinc-200"
+              className="inline-flex items-center rounded-full bg-zinc-100 px-3 py-1 text-xs text-zinc-600 hover:bg-zinc-200"
             >
               {cat.name}
             </Link>
           ))}
         </div>
+      </div>
 
-        {/* Stats Grid */}
-        <div className="mt-6 grid grid-cols-2 gap-4 sm:grid-cols-4">
-          <div className="rounded-xl bg-amber-50 p-4 text-center">
-            <div className="text-2xl font-bold text-amber-600">{game.score}</div>
-            <div className="mt-1 text-xs text-amber-500">信号分</div>
-          </div>
-          <div className="rounded-xl bg-blue-50 p-4 text-center">
-            <div className="text-2xl font-bold text-blue-600">{game.serp_count}</div>
-            <div className="mt-1 text-xs text-blue-500">SERP 结果数</div>
-          </div>
-          <div className="rounded-xl bg-purple-50 p-4 text-center">
-            <div className="text-2xl font-bold text-purple-600">{game.trends_peak}</div>
-            <div className="mt-1 text-xs text-purple-500">趋势峰值</div>
-          </div>
-          <div className="rounded-xl bg-green-50 p-4 text-center">
-            <div className="text-2xl font-bold text-green-600">
-              {game.opportunity.toFixed(2)}
-            </div>
-            <div className="mt-1 text-xs text-green-500">机会指数</div>
-          </div>
+      {/* Game iframe */}
+      {embedUrl && (
+        <div className="mb-6 rounded-xl overflow-hidden border border-zinc-200 bg-black shadow-lg">
+          <iframe
+            src={embedUrl}
+            className="w-full h-[500px] sm:h-[600px]"
+            allow="autoplay; fullscreen; clipboard-read; clipboard-write"
+            allowFullScreen
+            sandbox="allow-scripts allow-same-origin allow-popups allow-forms allow-presentation"
+            title={game.title}
+          />
         </div>
+      )}
 
-        {/* Play Button */}
-        {game.url ? (
-          <a
-            href={game.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="mt-6 inline-flex w-full items-center justify-center gap-2 rounded-xl bg-indigo-600 px-6 py-3 text-sm font-semibold text-white transition hover:bg-indigo-700 sm:w-auto"
-          >
-            在 {game.source} 上玩
-            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-            </svg>
-          </a>
-        ) : (
-          <div className="mt-6 rounded-xl bg-zinc-50 px-6 py-3 text-sm text-zinc-400">
-            暂无直接游玩链接
+      {/* Description + Info Row */}
+      <div className="mb-8 grid gap-6 sm:grid-cols-3">
+        {/* Description */}
+        {game.description && (
+          <div className="sm:col-span-2 rounded-xl border border-zinc-200 bg-white p-5">
+            <h2 className="mb-2 text-lg font-semibold text-zinc-800">玩法介绍</h2>
+            <p className="text-sm text-zinc-600 leading-relaxed">{game.description}</p>
           </div>
         )}
 
-        {/* Source info */}
-        <div className="mt-4 text-xs text-zinc-400">
-          数据来源: {game.source} · 扫描日期: 2026-05-19
+        {/* Side Info */}
+        <div className="rounded-xl border border-zinc-200 bg-white p-5">
+          <h2 className="mb-3 text-lg font-semibold text-zinc-800">游戏信息</h2>
+          <div className="space-y-3 text-sm">
+            <div>
+              <span className="text-zinc-400">平台</span>
+              <p className="font-medium text-zinc-700">{game.source}</p>
+            </div>
+            {matchingCategories.length > 0 && (
+              <div>
+                <span className="text-zinc-400">分类</span>
+                <div className="mt-1 flex flex-wrap gap-1.5">
+                  {matchingCategories.map((cat) => (
+                    <Link
+                      key={cat.slug}
+                      href={`/${cat.slug}`}
+                      className="rounded bg-zinc-100 px-2 py-0.5 text-xs text-zinc-600 hover:bg-zinc-200"
+                    >
+                      {cat.name}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
         </div>
       </div>
 
       {/* Related Games */}
       {related.length > 0 && (
-        <section className="mt-10">
+        <section className="mt-8">
           <h2 className="mb-4 text-xl font-semibold text-zinc-800">更多同类游戏</h2>
-          <div className="grid grid-cols-2 gap-4 sm:grid-cols-3">
+          <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
             {related.map((g) => (
               <Link
                 key={g.title}
                 href={`/game/${encodeURIComponent(g.title)}`}
-                className="group rounded-xl border border-zinc-200 bg-white p-4 transition hover:border-indigo-300 hover:shadow-md"
+                className="group rounded-xl border border-zinc-200 bg-white overflow-hidden transition hover:border-indigo-300 hover:shadow-md"
               >
-                <h3 className="font-medium text-zinc-800 group-hover:text-indigo-600 line-clamp-2 text-sm">
-                  {g.title}
-                </h3>
-                <div className="mt-2 flex items-center justify-between text-xs text-zinc-400">
-                  <span className="rounded bg-zinc-100 px-1.5 py-0.5">{g.source}</span>
-                  <span className="font-semibold text-amber-500">{g.score}分</span>
+                {g.image ? (
+                  <div className="aspect-video bg-zinc-100 overflow-hidden">
+                    <img
+                      src={g.image}
+                      alt={g.title}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      loading="lazy"
+                    />
+                  </div>
+                ) : (
+                  <div className="aspect-video bg-zinc-100 flex items-center justify-center text-zinc-300 text-xs">
+                    暂无封面
+                  </div>
+                )}
+                <div className="p-3">
+                  <h3 className="font-medium text-zinc-800 group-hover:text-indigo-600 line-clamp-2 text-sm leading-snug">
+                    {g.title}
+                  </h3>
                 </div>
               </Link>
             ))}

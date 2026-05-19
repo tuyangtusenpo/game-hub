@@ -12,9 +12,38 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const cat = categories.find((c) => c.slug === category);
   if (!cat) return { title: "分类未找到 - GameHub" };
   return {
-    title: `${cat.name} - GameHub 游戏导航`,
+    title: `${cat.name} - GameHub 免费在线游戏`,
     description: cat.description,
   };
+}
+
+function GameCard({ game }: { game: { title: string; image?: string } }) {
+  return (
+    <Link
+      href={`/game/${encodeURIComponent(game.title)}`}
+      className="group rounded-xl border border-zinc-200 bg-white overflow-hidden transition hover:border-indigo-300 hover:shadow-md"
+    >
+      <div className="aspect-video bg-zinc-100 overflow-hidden relative">
+        {game.image ? (
+          <img
+            src={game.image}
+            alt={game.title}
+            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+            loading="lazy"
+          />
+        ) : (
+          <div className="flex items-center justify-center h-full text-zinc-300 text-sm">
+            暂无封面
+          </div>
+        )}
+      </div>
+      <div className="p-3">
+        <h3 className="font-medium text-zinc-800 group-hover:text-indigo-600 line-clamp-2 text-sm leading-snug">
+          {game.title}
+        </h3>
+      </div>
+    </Link>
+  );
 }
 
 export default async function CategoryPage({ params }: PageProps) {
@@ -43,7 +72,7 @@ export default async function CategoryPage({ params }: PageProps) {
         </p>
       </div>
 
-      {/* Category list for quick switching */}
+      {/* Category nav for quick switching */}
       <div className="mb-8 flex flex-wrap gap-2">
         {categories.map((c) => (
           <Link
@@ -64,26 +93,7 @@ export default async function CategoryPage({ params }: PageProps) {
       {games.length > 0 ? (
         <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
           {games.map((game) => (
-            <Link
-              key={game.title}
-              href={`/game/${encodeURIComponent(game.title)}`}
-              className="group rounded-xl border border-zinc-200 bg-white p-4 transition hover:border-indigo-300 hover:shadow-md"
-            >
-              <h3 className="font-medium text-zinc-800 group-hover:text-indigo-600 line-clamp-2">
-                {game.title}
-              </h3>
-              <div className="mt-2 flex items-center justify-between text-xs text-zinc-400">
-                <span className="rounded bg-zinc-100 px-1.5 py-0.5">
-                  {game.source}
-                </span>
-                <span className="font-semibold text-amber-500">
-                  {game.score}分
-                </span>
-              </div>
-              <div className="mt-2 text-xs text-zinc-400">
-                SERP: {game.serp_count}
-              </div>
-            </Link>
+            <GameCard key={game.title} game={game} />
           ))}
         </div>
       ) : (
