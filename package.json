@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "enrich:games": "node scripts/enrich-onlinegames-details.mjs",
     "lint": "eslint"
   },
   "dependencies": {

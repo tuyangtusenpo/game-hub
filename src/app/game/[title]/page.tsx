@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getGameByTitle, getAllGames, categories, getGamesByCategory } from "@/data/games";
+import { getGameByTitle, getAllGames, categories, getGamesByCategory, isEmbeddableGame } from "@/data/games";
 import type { Metadata } from "next";
 
 interface PageProps {
@@ -20,7 +20,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 export default async function GameDetailPage({ params }: PageProps) {
   const { title } = await params;
   const game = getGameByTitle(title);
-  if (!game) notFound();
+  if (!game || !isEmbeddableGame(game)) notFound();
+  const details = game.details;
 
   // Find matching categories
   const matchingCategories = categories.filter((cat) =>
@@ -41,10 +42,7 @@ export default async function GameDetailPage({ params }: PageProps) {
     .filter((g) => relatedGames.has(g.title))
     .slice(0, 6);
 
-  // Determine embed URL:
-  // - Use embed_url if available (iframe source extracted during scan)
-  // - Otherwise fall back to the game's page URL (works for Poki)
-  const embedUrl = game.embed_url || game.url;
+  const embedUrl = game.embed_url;
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-6">
@@ -86,19 +84,69 @@ export default async function GameDetailPage({ params }: PageProps) {
         <iframe
           src={embedUrl}
           className="w-full h-[500px] sm:h-[600px]"
-          allow="autoplay; fullscreen; clipboard-read; clipboard-write"
+          allow="autoplay; fullscreen; gamepad; clipboard-read; clipboard-write"
           allowFullScreen
-          sandbox="allow-scripts allow-same-origin allow-popups allow-forms allow-presentation"
+          sandbox="allow-scripts allow-same-origin allow-forms allow-presentation allow-popups allow-popups-to-escape-sandbox"
           title={game.title}
         />
       </div>
 
       {/* Description */}
-      {game.description && (
+      {(details?.overview || game.description) && (
         <div className="mb-8 rounded-xl border border-zinc-200 bg-white p-5">
           <h2 className="mb-2 text-lg font-semibold text-zinc-800">玩法介绍</h2>
-          <p className="text-sm text-zinc-600 leading-relaxed">{game.description}</p>
+          <p className="text-sm text-zinc-600 leading-relaxed">
+            {details?.overview || game.description}
+          </p>
         </div>
+      )}
+
+      {(details?.controls?.length || details?.howToPlay?.length || details?.tips?.length || details?.developer) && (
+        <section className="mb-8 grid gap-4 md:grid-cols-2">
+          {details?.controls?.length ? (
+            <div className="rounded-xl border border-zinc-200 bg-white p-5">
+              <h2 className="mb-3 text-lg font-semibold text-zinc-800">操作说明</h2>
+              <ul className="space-y-2 text-sm text-zinc-600">
+                {details.controls.map((control) => (
+                  <li key={control} className="rounded-lg bg-zinc-50 px-3 py-2">
+                    {control}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null}
+
+          {details?.tips?.length ? (
+            <div className="rounded-xl border border-zinc-200 bg-white p-5">
+              <h2 className="mb-3 text-lg font-semibold text-zinc-800">游戏技巧</h2>
+              <ul className="space-y-2 text-sm text-zinc-600">
+                {details.tips.map((tip) => (
+                  <li key={tip} className="rounded-lg bg-zinc-50 px-3 py-2">
+                    {tip}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null}
+
+          {details?.howToPlay?.length ? (
+            <div className="rounded-xl border border-zinc-200 bg-white p-5 md:col-span-2">
+              <h2 className="mb-3 text-lg font-semibold text-zinc-800">怎么玩</h2>
+              <div className="space-y-3 text-sm leading-relaxed text-zinc-600">
+                {details.howToPlay.map((paragraph) => (
+                  <p key={paragraph}>{paragraph}</p>
+                ))}
+              </div>
+            </div>
+          ) : null}
+
+          {details?.developer ? (
+            <div className="rounded-xl border border-zinc-200 bg-white p-5 md:col-span-2">
+              <h2 className="mb-2 text-lg font-semibold text-zinc-800">开发者</h2>
+              <p className="text-sm text-zinc-600">{details.developer}</p>
+            </div>
+          ) : null}
+        </section>
       )}
 
       {/* Related Games */}

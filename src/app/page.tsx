@@ -94,8 +94,8 @@ export default function HomePage() {
       <section className="mt-16 rounded-2xl bg-indigo-50 p-8 text-center">
         <h2 className="text-2xl font-bold text-zinc-900">免费在线游戏导航</h2>
         <p className="mt-3 max-w-2xl mx-auto text-zinc-600 leading-relaxed">
-          GameHub 收录了来自 CrazyGames、Poki、itch.io 等平台的优质免费在线游戏，覆盖挂机放置、
-          合成合并、生存射击、益智解谜、赛车竞速等热门分类。所有游戏均可免费在线畅玩。
+          GameHub 只收录可在站内直接游玩的免费在线游戏，覆盖挂机放置、合成合并、生存射击、
+          益智解谜、赛车竞速等热门分类。打开页面即可开始游戏，无需跳转到外部网站。
         </p>
       </section>
     </div>

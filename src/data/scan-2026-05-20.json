@@ -13,7 +13,30 @@
       "image": "https://www.onlinegames.io/media/posts/1280/bloons-survival-io.webp",
       "description": "Shoot the stalking balloons with your darts by controlling your monkey in Bloons Survival IO, a fast-paced arcade game!",
       "embed_url": "https://html5.gamedistribution.com/0340635cab9e421ca6c3cda5acaa03f1/",
-      "score": 80
+      "score": 80,
+      "details": {
+        "overview": "Bloons Survival IO is a fast-paced arcade game in which you destroy balloons coming towards you. Use your weapons to shoot the balloons one by one as you control your monkey. Try to survive as long as possible to get the highest records by popping the incoming enemies. Do not let them come too close, or the monkey loses this balloon battle!",
+        "controls": [
+          "WASD or Arrow Keys: Move",
+          "Drag the Mouse: Move",
+          "LMB: Interact",
+          "On Mobile Devices: Use the touch controls."
+        ],
+        "howToPlay": [
+          "In Bloons Survival IO , your main goal is to pop all the balloons following you. However, you need to be very careful! Because if they touch you, you lose your health bar. Take control of the monkey, destroy as many balloons as possible with darts and other weapons, and try to survive no matter what it takes! Also, do not forget to collect coins and power-ups to grow stronger in this arcade game to survive.",
+          "To destroy incoming balloons, your monkey automatically throws darts at them. Each balloon you eliminate drops coins and power-ups, strengthening you. Collect coins to unlock new monkey heroes, pick up hearts to increase your health bar, and take the diamonds to level up your monkey’s power. With the power-ups, you can get shurikens, fists, boomerangs, cannon balls and increase the attack speed.",
+          "The balloons follow you wherever you go and try to attack you. Even a slight touch from them reduces your health bar. So, do not let them get too close to you to survive longer. Constantly check your health bar above your monkey’s head. If it is low, collect hearts scattered on the floor to increase the health bar."
+        ],
+        "tips": [
+          "Keep moving to dodge balloons.",
+          "Collect coins after every pop.",
+          "Grab hearts when health drops.",
+          "Use power-ups for stronger attacks.",
+          "Stay away from balloon crowds."
+        ],
+        "developer": "Bloons Survival IO was developed by GameBerry Studio.",
+        "sourceUrl": "https://www.onlinegames.io/bloons-survival-io/"
+      }
     },
     {
       "title": "Bubble Tower",
@@ -67,7 +90,26 @@
       "image": "https://www.onlinegames.io/media/posts/1282/smash-defense.webp",
       "description": "Smash the baseball and knock down flying monsters before they reach your base in Smash Defense, a fast-paced arcade game!",
       "embed_url": "https://html5.gamedistribution.com/ebe613bf6d5b44ad8908c7a36a710b7b/",
-      "score": 75
+      "score": 75,
+      "details": {
+        "overview": "Smash Defense is an arcade game where you shoot the baseball to knock down flying monsters attacking your base. Swing your baseball bat, take aim, and hit the ball at them. Eliminate the creatures one by one before they enter your base. After each battle, get your cards to upgrade your power to defend your base profoundly!",
+        "controls": [
+          "WASD or the Arrow Keys: Move",
+          "Mouse: Move",
+          "On Mobile Devices: Use the touch controls."
+        ],
+        "howToPlay": [
+          "In Smash Defense , your main goal is to defend your base against the incoming flying monsters in waves. You need to move your hero, swing the baseball bat and hit the ball to defeat all the monsters. Make sure that you take aim well while striking the ball. Try to eliminate them before they reach your base by using power-ups you gain with each level you pass.",
+          "Attack Boost increases the damage you deal to the monsters up to +40%. It enables you to hit them with higher devastation, causing them to lose a large amount of HP.",
+          "Multi Shot +1 gives you an extra yellow ball in addition to the baseball you have. It allows you to strike the monsters with two balls in total, enabling you to hit two monsters at once.",
+          "With the Piercing Shot, the balls you have will be able to pierce through a monster and hit another one at the same time.",
+          "HP Boost increases your base's health bar by up to 40%. The base will gain greater endurance against monster attacks with this power-up.",
+          "Bouncy Wall +1 makes the balls bounce off walls instead of going in vain. This power-up prevents the balls from going to waste if they don't hit the target."
+        ],
+        "tips": [],
+        "developer": "Smash Defense was developed by Mao Games.",
+        "sourceUrl": "https://www.onlinegames.io/smash-defense/"
+      }
     },
     {
       "title": "Stickman Battle",
@@ -112,7 +154,30 @@
       "image": "https://www.onlinegames.io/media/posts/1278/mafia-sniper-crime-shooting.webp",
       "description": "Grab your sniper rifle, take your place on the rooftop, and save the civilians from the mafia members in Mafia Sniper Crime Shooting, a 3D shooting game!",
       "embed_url": "https://html5.gamedistribution.com/5083a63adc7248d8b04dd72cde2eb78c/",
-      "score": 70
+      "score": 70,
+      "details": {
+        "overview": "Mafia Sniper Crime Shooting is a 3D shooting game where you take down the most wanted criminals with your sniper rifle! Accept special missions and save the civilians from the hands of mafia members from afar using a sniper. Try to precisely aim at the criminals and avoid shooting innocent people. Eliminate mafia targets by completing the high-risk missions in this FPS game!",
+        "controls": [
+          "W Key: Zoom In",
+          "S Key: Zoom Out",
+          "LMB or RMB: Shoot"
+        ],
+        "howToPlay": [
+          "In Mafia Sniper Crime Shooting , you are the coldest sniper in the entire city. The FBI wants to collaborate with you on special missions. Accept the missions, and save the city from the mafia members one by one. However, you should be careful, as there are innocent people around the criminals while you are on duty. You must avoid accidentally shooting the civilians, or the mission will fail. If you are ready, grab your sniper rifle and get to your place on a rooftop!",
+          "In the Leader mode, your goal is to shoot down the mafia leaders. The missions in Leader mode are harder than the Campaign and Hunt Down modes. However, the money and gold bars you get from these missions are much higher in amount. Mostly, you will need to take down more criminals at once in the Leader mode.",
+          "Hunt Down mode requires you to eliminate the wanted criminals as designated by the FBI. Each one of these criminals breaks the law by taking different actions. You need to stop them immediately before they commit another offense. Read the information about them and know your targets better.",
+          "Campaign mode lets you handle various situations that threaten innocent people. Stop the criminals before they hurt any civilians. Save the victims from the hands of the villains with your precise aiming skills. Restoring safety in the city is your main objective in the missions of the Campaign mode."
+        ],
+        "tips": [
+          "Aim carefully, avoid innocent civilians.",
+          "Use zoom for precise sniper shots.",
+          "Eliminate targets before they escape.",
+          "Take different missions from three game modes.",
+          "Stay hidden and strike from rooftops."
+        ],
+        "developer": "Mafia Sniper Crime Shooting was developed by bestgames.com.",
+        "sourceUrl": "https://www.onlinegames.io/mafia-sniper-crime-shooting/"
+      }
     },
     {
       "title": "Life Simulator Play For Free",
@@ -130,7 +195,29 @@
       "image": "https://www.onlinegames.io/media/posts/1195/eagle-duckcraft.webp",
       "description": "Explore the blocky world, collect resources, and craft tools to survive. Or, build your own imaginative world in Eagle DuckCraft, an online sandbox game!",
       "embed_url": "https://db.duckmath.org/html/minecraft/duckcraft/duckcraft-v1",
-      "score": 70
+      "score": 70,
+      "details": {
+        "overview": "Eagle DuckCraft is a browser-friendly sandbox game in which you have endless options to build up your own world. This Minecraft game is filled with so many details and features that it makes you feel completely free to dig, carve and build whatever you like.",
+        "controls": [
+          "WASD Keys: Move",
+          "Spacebar: Jump",
+          "LMB: Attack",
+          "RMB: Use an Item",
+          "Scroll Wheel: Pick an Item",
+          "Left-Shift: Sneak",
+          "Q: Drop",
+          "T: Chat"
+        ],
+        "howToPlay": [
+          "Whether you build up your imaginative world on the Singleplayer or engage with other players worldwide on the Multiplayer, Eagle DuckCraft offers you unique sandbox experiences. Regardless of the option you choose to play, start exploring the map after spawning. Collect resources to craft necessary materials to survive and build yourself a basic shelter or a mansion to stay in when the night comes. As it is a player-driven Minecraft game, you have the option to choose how to play it in this open world.",
+          "In Survival Mode, you must seek resources and collect materials to craft tools. You also need to manage your character’s hunger and health bars to stay alive. Watch out for the dangerous creatures, Mobs, especially when the sun goes down! You can begin by crafting a torch, as you will need a light source at night. Collect wood and coal to make torches. Keep in mind that you have a respawning option in this mode if your health bar drops to zero.",
+          "The Hardcore Mode is more challenging than the Survival Mode, as you have only one life to survive, unlike the latter one. If you take damage or get hungry, the health bar starts to drop. Keep an eye on the hunger bar, and when you see it decrease, you can go hunting for animals, such as sheep and fish. Building a shelter is essential for protecting yourself from monsters. In the Hardcore Mode, you have no respawning option. So, you'd better stay alert!",
+          "Apart from Survival and Hardcore modes, Creative Mode features peaceful terrain. You do not have to fight for your life in this mode. There is no need to struggle to stay alive. All you need to do is use your imagination and build structures with unlimited resources. You don’t need to wander around and collect building materials; you have full access to dozens of items in your inventory. Open inventory, choose the item you want to use and place it on the hotbar. That’s it!"
+        ],
+        "tips": [],
+        "developer": "MOJANG developed the Eagle DuckCraft version of Minecraft.",
+        "sourceUrl": "https://www.onlinegames.io/eagle-duckcraft/"
+      }
     },
     {
       "title": "Cookie Clicker Online",
@@ -139,7 +226,27 @@
       "image": "https://www.onlinegames.io/media/posts/1269/cookie-clicker.webp",
       "description": "Click on the giant cookie and produce more chocolate chip cookies with the help of grandmas in Cookie Clicker, an idle clicker game!",
       "embed_url": "https://cloud.onlinegames.io/cdn/index.html",
-      "score": 70
+      "score": 70,
+      "details": {
+        "overview": "Cookie Clicker is an idle clicker game in which your greatest challenge is to bake the best cookies in the Shiny Giraffe’s Bakery! Tap on the giant cookie on the screen, and watch the cookies multiply. Keep in mind that the more you click, the more delicious cookies you get. Visit the Store to produce even more chocolate chip cookies with the help of grandmas, farms and mines!",
+        "controls": [
+          "LMB: Click on the Cookie",
+          "On Mobile Devices: Tap on the cookie to produce more."
+        ],
+        "howToPlay": [
+          "To grow your cookie brand, you need to produce a great deal of chocolate chip cookies per second. Luckily, you can increase the number of cookies that are produced with every click and per second with the help of buildings in the Cookie Clicker Store!",
+          "Cursor: Autoclicks once every 10 seconds.",
+          "Grandma: A nice grandma to bake more cookies.",
+          "Farm: Grows cookie plants from cookie seeds.",
+          "Mine: Mines out cookie dough and chocolate chips.",
+          "Factory: Produces large quantities of cookies.",
+          "To increase the cookie production in your buildings, you can unlock upgrades to increase their production capacity. Our mascot, Gamie , listed some of the upgrades below for you! Check them out for easy access to more cookies. :)",
+          "Reinforced Index Finger: The mouse and cursors are twice as efficient."
+        ],
+        "tips": [],
+        "developer": "Cookie Clicker is developed by DashNet.",
+        "sourceUrl": "https://www.onlinegames.io/cookie-clicker/"
+      }
     },
     {
       "title": "GTA Simulator",
@@ -463,7 +570,23 @@
       "image": "https://www.onlinegames.io/media/posts/1288/jumpers-quest.webp",
       "description": "Jump the blue cube, overcome diverse obstacles, and reach the top by dodging dangers in Jumper’s Quest, an exciting puzzle game by Halfbrick!",
       "embed_url": "https://html5.gamedistribution.com/f0f4d71949e347249950f163cfb40d4b/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Jumper’s Quest is an exciting puzzle game featuring colorful graphics and jumping gameplay. In this Halfbrick game, you need to take control of the blue cube with an eye and jump it. Continue jumping until you reach the top by overcoming obstacles on each course. Try not to fall from platforms if you don’t want to restart the level!",
+        "controls": [
+          "LMB: Jump",
+          "On Mobile Devices: Tap on the screen to jump."
+        ],
+        "howToPlay": [
+          "In Jumper’s Quest , there is a wide range of unique obstacles. Your job is to conquer all levels with diverse challenges by jumping the blue cube. Learn the dynamics of each level, move up by jumping on platforms, and reach the top by collecting all the coins. However, you need to be aware of the dangers. Avoid falling down, and stay away from the spiky objects to survive!",
+          "Some levels contain crushers on the platforms, making it hard for you to reach the top. If you are stuck between the walls of the crushers, they will squeeze the cube. So, you need to take quick action to avoid crushers.",
+          "You will encounter portals on some levels. When the cube gets into a portal, it will teleport to the other portal. You need to act mindfully so you don't fall. Try to guess where the cube will exit when it enters the first portal!",
+          "Toggling platforms will make things a little harder for you! With each move your cube makes, all the platforms on the course toggle. It means that while some platforms are activated, others are disabled. Take action according to the toggles."
+        ],
+        "tips": [],
+        "developer": "Jumper’s Quest was developed by Halfbrick Studios.",
+        "sourceUrl": "https://www.onlinegames.io/jumpers-quest/"
+      }
     },
     {
       "title": "Two RX7 Drifters Online",
@@ -472,7 +595,27 @@
       "image": "https://www.onlinegames.io/media/posts/1287/two-rx7-drifters.webp",
       "description": "Steer the wheels of RX7, and perform the longest drifts with your friend in Two RX7 Drifters, a 3D drifting game with a 2-player option!",
       "embed_url": "https://html5.gamedistribution.com/f85eee6b515c4aecb0ef6c6563d05e39/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Two RX7 Drifters is a 3D drift game with a 2-player option. Take your seat, start the engine, and explore different modes of this excellent car game. Drive your Mazda RX7-like car and perform the longest drifts that you can. You can also challenge yourself with a friend on the same device in the 2-Player Mode!",
+        "controls": [
+          "WASD Keys: Drive/Steer/Brake",
+          "Arrow Keys: Drive/Steer/Brake",
+          "Player 1",
+          "Player 2"
+        ],
+        "howToPlay": [
+          "In the Challenges, you need to accomplish specific drifting tasks before the timer goes up. Read the specified objective in the upper-left corner of the screen and try to complete it before you run out of time.",
+          "In the Checkpoints, you need to reach the targeted points within the given time. However, keep in mind that every second counts when completing missions at the Checkpoints. Keep checking your timer!",
+          "In the Drift Mode, you need to beat the target drift points. There are three cups to get: Bronze, Silver, and Gold. Each cup requires you to reach specific drift points. Check the points necessary, and try to reach the points for the cup you want to get!",
+          "In the 2-Player Drift Mode, you challenge a friend on the same device with a split screen. Both of you have Mazda RX7 vehicles to showcase your drift skills. The one who has the most drifting score wins the game!",
+          "In the Race Mode, you will race with your friend on a city map. Both of you steer the wheels of the powerful RX7s. The one who reaches the finish line wins the gold cup!",
+          "In the Stunt Mode, your friend’s objective is to perform the best stunts with your supercars. Fly your car in the air, score stunt points, and be the one who scores the most to win before the timer goes up!"
+        ],
+        "tips": [],
+        "developer": "Two RX7 Drifters was published by Fuego! Games.",
+        "sourceUrl": "https://www.onlinegames.io/two-rx7-drifters/"
+      }
     },
     {
       "title": "Slingshot Fortress Online",
@@ -481,7 +624,35 @@
       "image": "https://www.onlinegames.io/media/posts/1279/slingshot-fortress.webp",
       "description": "Grab your slingshot, aim precisely, and collapse all the towers in Slingshot Fortress, an online puzzle game inspired by Angry Birds!",
       "embed_url": "https://html5.gamedistribution.com/ecc90172a5a8427b85f6b1b75e5306e7/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Slingshot Fortress is an online puzzle game inspired by Angry Birds. Use your slingshot to launch stones, bombs, and shurikens to destroy towers. Collapse all the structures in a level and uncover all the hidden enemies. Try to score the highest points to get all three stars by using your weapons efficiently! You can also engage in the PVP mode with a friend of yours and duel with them on the same device.",
+        "controls": [
+          "LMB: Aim",
+          "Drag the Mouse: Pull Back",
+          "Release: Launch",
+          "Click LMB: Activate Effect"
+        ],
+        "howToPlay": [
+          "In the first levels, you have rocks that collapse structures. However, you will unlock new and advanced projectiles as you progress through the levels. Each projectile you unlock comes with a special effect and has its own pros and cons.",
+          "Rock: A basic rock.",
+          "Ice Shuriken: Tap to split into 3 clones.",
+          "Missile: Tap to reach distant targets.",
+          "Bomb: Tap to explode.",
+          "Yoyo: Tap to make it come back.",
+          "Magnet: Tap to attract, and tap again to repulse.",
+          "Ghost: Tap to make it scream."
+        ],
+        "tips": [
+          "Aim before releasing projectiles.",
+          "Trigger effects at impact.",
+          "Target weak tower supports.",
+          "Save weapons for stars.",
+          "Master each projectile type."
+        ],
+        "developer": "Slingshot Fortress was developed by Mao Games.",
+        "sourceUrl": "https://www.onlinegames.io/slingshot-fortress/"
+      }
     },
     {
       "title": "Push IO Online",
@@ -490,7 +661,32 @@
       "image": "https://www.onlinegames.io/media/posts/1281/push-io.webp",
       "description": "Wield your boomerang and knock rivals into the water to become the ultimate arena champion in Push IO, a multiplayer battle game!",
       "embed_url": "https://html5.gamedistribution.com/4888156f33814739a696e11b32556159/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Push IO is a multiplayer battle game in which you use your boomerang and try to push other players with it. Move carefully on the arena, aim well and wield your boomerang to push the rivals off. Dodge incoming attacks because the longer you survive, the higher the rank. Be the last one standing by eliminating all other players in this io game!",
+        "controls": [
+          "WASD or the Arrow Keys: Move",
+          "Drag Mouse: Move",
+          "Spacebar or RMB: Attack",
+          "On Mobile Devices: Use the touch controls."
+        ],
+        "howToPlay": [
+          "Until unlocking a new weapon, upgrade your boomerang to increase its force, speed, lock speed and accuracy. This way, you can easily knock rivals into the water! Also, each upgrade you make to your weapon will get you close to unlocking a new and powerful one. In total, complete 5 consecutive upgrades and grab the new weapon.",
+          "You will see power-up icons on the arena from time to time. You need to collect them when you see their icons in the arena. There are three power-ups in total: Red Gloves, Blue Guard, and Lightning Strike. Each of these power-ups comes with unique features.",
+          "Red Gloves: Increases the attack force.",
+          "Blue Guard: Protects you in the short term.",
+          "Lightning Strike: Lets you attack everyone nonstop."
+        ],
+        "tips": [
+          "Aim carefully before every throw.",
+          "Dodge attacks to survive longer.",
+          "Upgrade boomerangs for stronger pushes.",
+          "Collect power-ups whenever possible.",
+          "Push rivals off the arena."
+        ],
+        "developer": "Push IO was developed by Mao Games.",
+        "sourceUrl": "https://www.onlinegames.io/push-io/"
+      }
     },
     {
       "title": "Brainrots Lava Survive Online Online",
@@ -499,7 +695,34 @@
       "image": "https://www.onlinegames.io/media/posts/1284/brainrots-lava-survive-online.webp",
       "description": "Try to collect the precious Italian Brainrots in your base by dodging lava in Brainrots Lava Survive Online, an online Italian Brainrot game!",
       "embed_url": "https://html5.gamedistribution.com/f455a9cabb9248e4ab807672ee11f05f/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Brainrots Lava Survive Online is an online Italian brainrot game where you try to collect rare characters in your base. However, it will not be easy to pick up an Italian brainrot, because the area occasionally fills with lava.",
+        "controls": [
+          "WASD Keys: Move",
+          "Spacebar: Jump",
+          "E: Pick Up",
+          "F: Fight",
+          "Arrow Keys: Move",
+          "L: Jump",
+          "J: Pick Up",
+          "K: Fight"
+        ],
+        "howToPlay": [
+          "In Brainrots Lava Survive Online , your main goal is to collect the rarest brainrots in your base. To do that, the first thing you need to do is to go to the area where the Italian Brainrots are placed. But keep in mind that this area is frequently filled with lava. If the lava touches you, your Obby character is no longer alive! Keep checking the lava bar to avoid being caught in the burning flames. Once you reach and pick up an Italian Brainrot, head to your base immediately.",
+          "You can upgrade your Obby character’s speed to easily run away from the lava. Additionally, increased speed allows you to go further in the Italian Brainrot zone. This way, you can easily go forward and pick up the rarest Brianrots, which are in the farthest area in the zone. Besides speed, you can increase your Obby's capacity. Each +1 carrying capacity lets you carry more than one Brainrot!",
+          "You can place many more Brainrots in your base by upgrading it. You will see a signboard with a house icon on it in front of the base. Click on it to unlock new slots for Brainrots, and you will get stairs and an extra floor in your base. Each upgrade to your base unlocks a new slot. You can easily be a billionaire in Brainrots Lava Survive Online with the upgrade choices you have!"
+        ],
+        "tips": [
+          "Watch the lava bar constantly.",
+          "Upgrade speed to escape danger faster.",
+          "Carry rare Brainrots for bigger profits.",
+          "Expand your base for more slots.",
+          "Play co-op mode with a friend."
+        ],
+        "developer": "Brainrots Lava Survive Online was developed by CursoraLabs.",
+        "sourceUrl": "https://www.onlinegames.io/brainrots-lava-survive-online/"
+      }
     },
     {
       "title": "Jump Master Online",
@@ -508,7 +731,28 @@
       "image": "https://www.onlinegames.io/media/posts/1285/jump-master.webp",
       "description": "Jump the chess piece and make it land on the blocks in Jump Master, an arcade game. Try taking the furthest distance possible!",
       "embed_url": "https://html5.gamedistribution.com/e0250be9a0ff4355a9dccf3716128597/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Jump Master is an arcade game with cute graphics in which you try to jump from one block to another without falling into the gaps. Control your chess piece: jump with LMB and try to cover the longest distance. Try to avoid dropping the chess piece, or you will need to restart the game!",
+        "controls": [
+          "Press LMB: Accumulate Power",
+          "Release LMB: Jump",
+          "On Mobile Devices: Use the touch controls."
+        ],
+        "howToPlay": [
+          "Normally, you get a +1 score for each successful landing. However, if you manage to land exactly on the center of the blocks, you will get +2 scores. Furthermore, you can double up the scores by creating combos. It goes as +2, +6, +11, +17 as you move forward without breaking the combo. Keep in mind that consecutive landings on the block’s center will give the most out of the scores!",
+          "There are dozens of blocks on the road, varying in different colors and shapes. In addition to these normal blocks, music boxes will appear as blocks from time to time. These music boxes are called “Somy”. Listening to the song playing and taking a short coffee break will earn you at least +30 extra points! Wait until the song disappears and take your easy scores."
+        ],
+        "tips": [
+          "Hold longer, leap much farther.",
+          "Aim center for bigger combos.",
+          "Release carefully, avoid dangerous gaps.",
+          "Pause on Somy, earn extra points.",
+          "Unlock new pieces with progress."
+        ],
+        "developer": "Jump Master was published by MOVISOFT.",
+        "sourceUrl": "https://www.onlinegames.io/jump-master/"
+      }
     },
     {
       "title": "i8 City Driver Online",
@@ -517,7 +761,33 @@
       "image": "https://www.onlinegames.io/media/posts/1286/i8-city-driver.webp",
       "description": "Leisurely drive your BMW i8-like car in the neon-lit city streets, or accept diverse challenges in i8 City Driver, a browser-friendly driving game!",
       "embed_url": "https://html5.gamedistribution.com/f6acd919192c441c9aca2d20a18e04c6/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "i8 City Driver is a browser-friendly driving game in which you drive a BMW i8-like car and complete missions. Complete drifting tasks, take your part in survival mode, execute successful stunts and accept kill challenges for pumping some adrenaline! Or, you can wander in the neon-lit city streets to hang out in the nightlife with your puppy leisurely. Have fun!",
+        "controls": [
+          "WASD or the Arrows Keys: Steer",
+          "Mouse: Look Around",
+          "Spacebar: Brake",
+          "Left-Shift: Activate Nitro",
+          "C: Change Camera View",
+          "E: Interact"
+        ],
+        "howToPlay": [
+          "In i8 City Driver , your main objective is to drive your i8 vehicle in the neon-lit city streets and accept various missions to gain money. You can engage in drift challenges, perform excellent stunts with your car, and try to escape from the police for fun. In any case, keep an eye out for your vehicle’s fuel bar! If it reaches zero, you can not move your vehicle. Head to the gas station to fuel up before the gas runs out…",
+          "In the Drift Challenge, your goal is to make target drift points before the timer goes up. Reach the necessary score to beat the challenge by burning your tires at high speeds with your supercar. Try not to crash into other vehicles in the flowing traffic while drifting!",
+          "In the Survival Challenge, beat the police as long as you can by evading them. The more you dodge them, the more you will be paid in this challenge. Check how many cops are following you from the upper right corner of the screen. Try not to get busted by them!",
+          "In the Kill Challenge, run over the target pedestrians with your supercar. Once you run over more than one pedestrian, the cops will be following you. You need to dodge them and avoid getting caught. Otherwise, the mission will fail while trying to reach your target!"
+        ],
+        "tips": [
+          "Use nitro wisely during long pursuits.",
+          "Drift smoothly to avoid crashing into traffic.",
+          "Watch your fuel bar and refill often.",
+          "Take sharp turns to escape police cars.",
+          "Practice stunts to improve vehicle control."
+        ],
+        "developer": "Fuego! Games developed i8 City Driver.",
+        "sourceUrl": "https://www.onlinegames.io/i8-city-driver/"
+      }
     },
     {
       "title": "Escape from the Portal Online",
@@ -526,7 +796,30 @@
       "image": "https://www.onlinegames.io/media/posts/1283/escape-from-the-portal.webp",
       "description": "Explore the gloomy catacombs and find a way to activate the ancient portal to free your trapped soul in Escape from the Portal, a horror game!",
       "embed_url": "https://html5.gamedistribution.com/c323e23d0c7949c0b8ed4e1b55495f25/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Escape from the Portal is a horror game where your soul is trapped between worlds. To escape the underworld, you must activate an ancient portal. Explore the gloomy catacomb, avoid traps and fight monsters to survive. Try to uncover secrets of the past to find a way to the exit. Learn magical artifacts to activate the portal in this adventure game!",
+        "controls": [
+          "WASD or the Arrow Keys: Move",
+          "Mouse: Look Around",
+          "1-2 Numeric Keys: Activate Magic",
+          "E: Interact with Objects",
+          "TAB: Open the Inventory"
+        ],
+        "howToPlay": [
+          "The lady guiding you will share some of her magical powers. These powers include Freeze, Magic, Transformation, Supervision and Invisibility. You will need these powers to progress through the catacombs. Use them to collect hints to solve mysteries. However, keep in mind that you can use each of the magical powers for a short time. Use them efficiently!",
+          "While exploring the rooms, you will encounter strange creatures and horrifying demons. You need to eliminate them in order to make progress. Otherwise, they may attack you. Give attention to the Lady Soul; she will give you hints about how to deal with them. Also, do not forget to search every corner, as the things you find may help you dodge these creatures!"
+        ],
+        "tips": [
+          "Listen to the Lady Soul.",
+          "Use magical powers wisely.",
+          "Search every dark corner.",
+          "Avoid traps, watch closely.",
+          "Defeat demons, unlock progress."
+        ],
+        "developer": "Escape from the Portal was published by Mirra Games.",
+        "sourceUrl": "https://www.onlinegames.io/escape-from-the-portal/"
+      }
     },
     {
       "title": "Bloxd io Play Online",
@@ -535,7 +828,33 @@
       "image": "https://www.onlinegames.io/media/posts/722/Bloxd-io-Play.jpg",
       "description": "Welcome to Bloxd io, an ultimate online Minecraft game with diverse modes. Whether you're interested in a peaceful building session or intense PvP battles, you will find what you expect from Bloxd io.",
       "embed_url": "https://bloxd.io/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Welcome to Bloxd io , an ultimate online Minecraft game with diverse modes. Whether you're interested in a peaceful building session or intense PvP battles, you will find what you expect from Bloxd io.",
+        "controls": [
+          "Move Forward: W",
+          "Move Backward: S",
+          "Move Left: A",
+          "Move Right: D",
+          "Run: Shift",
+          "Break Block: Left Click",
+          "Place Block: Right Click / E",
+          "Open Inventory / Craft: Tab"
+        ],
+        "howToPlay": [
+          "Survival: Survival mode allows players to engage in PvP and explore an open world. The player should take down other players. Collect resources and outlast others.",
+          "Peaceful: No PVP in peaceful mode. Dig, carve and create whatever your heart desires. No danger to worry about. Enjoy the pure exploration.",
+          "Creative: Find all the building blocks in your inventory and start building. Whether a cathedral, a shelter or an island for yourself. Sandbox gameplay with fly mode on.",
+          "Bed Wars: Similar to capture the flag of FPS games. Keep your team bed safe, and don't let any opponent approach it. The battle is in the sky, so try not to fall down. You can play Bedwars mode with 2x2 or 4x4 players.",
+          "Pirates: PvP mode where you destroy enemies' ships to win. Dig enemy spawn blocks first and take down enemies themself later!",
+          "Hide and Seek: This one is certainly our favorite. Players split into two teams: hiders and seekers. Before the time runs out, explore the map and find a perfect place to hide. You will hide as a block, so choose the block you want to be according to the theme of the place you'll hide. A bookshelf in the woods would reveal itself, wouldn't it? If you get caught, be a seeker and look for any suspicious behavior on the map. You have 15 chances to find hiders.",
+          "One Block: Experience the Big Bang virtually! You will start with only one block and dig it to generate new blocks. With a single block and hard work, you can build an island of your own.",
+          "Doodle Cube: Build anything that matches the theme of a map within the time limit. When time is up, go vote for other buildings and try to win the competition."
+        ],
+        "tips": [],
+        "developer": "Arthur Baker created this game.",
+        "sourceUrl": "https://www.onlinegames.io/bloxd-io/"
+      }
     },
     {
       "title": "Geometry Arow 2 Game",
@@ -571,7 +890,32 @@
       "image": "https://www.onlinegames.io/media/posts/1171/basketball-stars-2026.webp",
       "description": "Engage in matches and perform mega dunks to outscore your opponent on the court in Basketball Stars 2026, an online basketball game with its 2-player option.",
       "embed_url": "https://html5.gamedistribution.com/516d6908fbc848bdb89e65a58a43a7dc/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Basketball Stars 2026 is a web-based basketball game where you choose your favorite basketball team and step onto the basketball court. Join a tournament and help your beloved team win the final match. Perform perfect dunks and 3-point shots to outperform the opponent. Duel with a friend or play side-by-side in the 2 Players mode! 🏀",
+        "controls": [
+          "WASD or the Arrow Keys: Move",
+          "Hold Down the W or Upper Arrow: Dunk",
+          "Z Key: Supershot",
+          "X Key: Steal the Ball",
+          "S Key: Pump/Block",
+          "Double A-D/Left-Right Arrow: Dash",
+          "WASD Keys: Move",
+          "B Key: Steal the Ball"
+        ],
+        "howToPlay": [
+          "Welcome to the 2026 version of Basketball Stars! Ready to challenge yourself on the basketball court? Grab the ball and enter the field. Perform successful dunks to the opponent’s hoop to score. You can use the supershot to make a hot special dunk once the bar at the top of the screen is fully loaded. Believe me, it never fails! Feel free to block your opponent and steal the ball from his hands by slapping him. In this basketball game, everything is possible.",
+          "You can take part in challenging basketball tournaments. Firstly, choose your favorite team from the selection menu. You have the right to choose between the 1V1 and 2V2 options. Then, decide whether you want to play as a defender or attacker. Finalize customizing the tournament settings by selecting Normal or Hard for difficulty. After all is set up, you are ready to enter the basketball court!",
+          "If you are not willing to spare time adjusting settings, that’s okay! From the main menu, you can enter a quick match by clicking on the relevant button. The game automatically creates a match for you. Or, you can head to the random match if you are not in the mood for joining tournaments.",
+          "2 Player mode allows you to challenge yourself with a friend. Or, you can create a match where you can play with him/her side by side against the CPU. Before entering the court, both of you need to select a team with famous basketball players. Don’t forget to check out the controls of the 2 Players mode!",
+          "1 VS. 1",
+          "2 VS. 2",
+          "2 VS. CPU"
+        ],
+        "tips": [],
+        "developer": "Basketball Stars 2026 was published by MadPuffers.",
+        "sourceUrl": "https://www.onlinegames.io/basketball-stars-2026/"
+      }
     },
     {
       "title": "Rooftop Run Online",
@@ -616,7 +960,29 @@
       "image": "https://www.onlinegames.io/media/posts/1275/famidash.webp",
       "description": "Jump over spikes and obstacles and try to reach the finish point without crashing in FamiDash, a rhythm-based platformer inspired by Geometry Dash!",
       "embed_url": "https://cloud.onlinegames.io/games/2026/em/famidash/index.html",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "FamiDash is a rhythm-based platformer game where you guide your cube on extremely challenging obstacle courses. Master controlling your cube, dodge all kinds of obstacles on the way, and try to reach the finish line in every level in this Geometry Dash-inspired game. Keep your eyes wide, and stay away from the spiky objects to avoid restarting the levels!",
+        "controls": [
+          "Upper Arrow: Jump",
+          "Alternatively, you can use the Z Key to jump.",
+          "Enter: Pause the Game",
+          "On Mobile Devices: Tap on the screen to jump."
+        ],
+        "howToPlay": [
+          "Stereo Madness in FamiDash is the primary game mode where players jump, fly, and navigate obstacles across various forms, including cube, ship, and ball. Jump over spikes and obstacles, control a flying ship by holding to go up and releasing to go down.",
+          "Back on Track is the second game mode in FamiDash, and it is more challenging than Stereo Madness. Overall, all FamiDash levels require precise movements and timing. However, Back on Track demands quick decisions to survive through the obstacle course."
+        ],
+        "tips": [
+          "Time jumps with rhythm beats.",
+          "Stay sharp, dodge spike traps.",
+          "Master cube control for survival.",
+          "Learn patterns, react instantly, always.",
+          "Focus hard, finish every level."
+        ],
+        "developer": "Kandowontu developed the FamiDash, inspired by Geometry Dash.",
+        "sourceUrl": "https://www.onlinegames.io/famidash/"
+      }
     },
     {
       "title": "Skribblio Play For Free",
@@ -643,7 +1009,27 @@
       "image": "https://www.onlinegames.io/media/posts/1271/paper-doll-diary-dress-up-diy.webp",
       "description": "Experience the life of a paper doll, get her ready for diverse occasions, and make sure that the spotlights shine on her in Paper Doll Diary: Dress Up DIY!",
       "embed_url": "https://html5.gamedistribution.com/6fcaa70b796547a698ddd10808527345/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Paper Doll Diary: Dress Up DIY is an online dress-up game in which you pick up exhilarating outfits from the DIY paper dolls! Use the wardrobe featuring 1000+ fashion items and choose the latest in trendy attire to shine as a fashionista among others. Mix & match styles, select diverse hairstyles, and finish off your look with makeup touches in this fashion game!",
+        "controls": [
+          "LMB: To Interact",
+          "On Mobile Devices: Tap on the screen to interact."
+        ],
+        "howToPlay": [
+          "In the New Story mode, you actually step into Elsa’s shoes and experience her life firsthand. Get Elsa ready for her first day of high school, make sure she looks her best for her appointments, and help her to be the one who has the craziest costume at the Halloween party on campus. All eyes on Elsa!",
+          "In the Contest mode, your objective is to choose a style and prepare your paper doll for a contest. If you manage to stick with the style you choose, you will get the most points and win the contest. Show everyone that you are the fashion queen of the town by winning every contest you take part in!"
+        ],
+        "tips": [
+          "Mix styles for unique outfits.",
+          "Match themes to win contests.",
+          "Experiment with bold accessories.",
+          "Hairstyles complete every fashion look.",
+          "Follow story goals for rewards."
+        ],
+        "developer": "Paper Doll Diary: Dress Up DIY is developed by Bravestars Games.",
+        "sourceUrl": "https://www.onlinegames.io/paper-doll-diary-dress-up-diy/"
+      }
     },
     {
       "title": "Hunter Underwater Spearfishing Online",
@@ -652,7 +1038,29 @@
       "image": "https://www.onlinegames.io/media/posts/1277/hunter-underwater-spearfishing.webp",
       "description": "Grab your speargun and dive into the ocean to hunt rare marine animals in Hunter Underwater Spearfishing, a browser-friendly simulator game!",
       "embed_url": "https://html5.gamedistribution.com/37080f0a91924d12b91ef072e965497f/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Hunter Underwater Spearfishing is a browser-friendly simulator game where you hunt sea creatures deep beneath the ocean. Use your speargun, take aim, and take down sea turtles, seals, shrimps and more. However, you should use your speargun’s arrows wisely, as you have a limited amount of them. Get ready for the immersive underwater adventure in this 3D simulator game!",
+        "controls": [
+          "WASD Keys: Move",
+          "LMB: Look Around",
+          "Left-Shift: Sprint",
+          "F Key: Shoot"
+        ],
+        "howToPlay": [
+          "With this simulator game, you will be able to explore the depths of the ocean. You will encounter common and uncommon sea creatures under the deep water. Every level requires you to hunt a new species of sea animals such as mosasaurus, arowanas, and orcas. Don’t forget to read the information about the species at the top left corner of the screen and learn about the marine animals!",
+          "With each level you complete, you will earn in-game currencies. You can use your coins to unlock new and advanced spearguns at the shop. In later levels, it will be important to use strong spearguns with a high attack range. You will need to hunt marine predators such as tiger sharks and saltwater crocodiles."
+        ],
+        "tips": [
+          "Aim carefully, conserve limited speargun arrows.",
+          "Get close, headshots deal maximum damage.",
+          "Learn species behavior before each hunt.",
+          "Unlock new spearguns using earned mission coins.",
+          "Explore depths, hunt rare ocean predators."
+        ],
+        "developer": "bestgames.com developed Hunter Underwater Spearfishing.",
+        "sourceUrl": "https://www.onlinegames.io/hunter-underwater-spearfishing/"
+      }
     },
     {
       "title": "Drift King Online",
@@ -661,7 +1069,34 @@
       "image": "https://www.onlinegames.io/media/posts/729/Drift-King.jpg",
       "description": "Race with each other, make drifting competitions or chase after each other to experience crashes and chaos. in Drift King, free online game!",
       "embed_url": "https://www.onlinegames.io/games/2024/unity/drift-king/index.html",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Drift King stands out among online drift games, offering a unique experience where you can witness the smoke you leave behind from the rearview window. This game surrounds you in every realistic detail, from its premium 3D visuals to the choice of 10 sports cars and 6 maps.",
+        "controls": [
+          "WASD or arrow keys: Move car",
+          "M: Rearview Mirror",
+          "C: Change Carnera",
+          "R: Reset Car",
+          "U: Toggle between KMH and MPH",
+          "I: Start/Stop Engine",
+          "P: Fullscreen"
+        ],
+        "howToPlay": [
+          "The traditional approach in a car game would be to give zero cash to the player at the beginning. This means waiting and playing for a long time to use any cool feature a game might offer. However, we told you Drift King is different. Here's a step-by-step guide to get you started.",
+          "Drift King puts 30,000 coins in your pocket, right as you enter the game. This allows you to buy most of the cars in the garage, upgrade the parts, and tune them as you like before you.",
+          "So, our suggestion is to first hang out in the garage a bit. Find the car you like the most, explore upgrades and tuning options.",
+          "If you're not sure how to tune your car, find our complete guide on tuning .",
+          "Then move on to maps. You have six options in the maps section.",
+          "Select a map that will describe your drifting experience, your environment preferences, and what you expect from the game.",
+          "Some of maps have racetracks while some are long countryside roads with slight curves. It's up to you.",
+          "If you spawn onto the map, now aim for the longest drift. Keep the speed high and perform manji drifts and donuts. Or go freestyle and follow the curves of the road while leaving S-shaped marks behind you."
+        ],
+        "tips": [
+          "One of the coolest features Drift King has its multiplayer rooms. After you select multiplayer mode, enter your nickname, choose a map and create a room to hang out with your drifter friends. Race with each other, make drifting competitions or chase after each other to experience crashes and chaos."
+        ],
+        "developer": "",
+        "sourceUrl": "https://www.onlinegames.io/drift-king/"
+      }
     },
     {
       "title": "Magic Tiles 3 Online",
@@ -679,7 +1114,34 @@
       "image": "https://www.onlinegames.io/media/posts/1276/obby-highest-jump-ever.webp",
       "description": "Train in the GYM Area and climb up the towers to get trophies in Obby Highest Jump Ever, a Roblox-inspired clicker game!",
       "embed_url": "https://html5.gamedistribution.com/eece738ce7be411cba9b6e333f1ec96f/",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Obby Highest Jump Ever is a Roblox-inspired clicker game where you train your Obby character at the gym center. Run on the treadmill, jump on the trampoline and jump to the highest tower to win trophies.",
+        "controls": [
+          "WASD Keys: Move",
+          "Spacebar: Jump",
+          "Left-Shift: Sprint",
+          "Arrow Keys: Move",
+          "L Key: Jump",
+          "K Key: Sprint",
+          "Player 1",
+          "Player 2"
+        ],
+        "howToPlay": [
+          "Your main objective in Obby Highest Jump Ever is to train your Obby character to jump as high as possible. Grow its jump power by running on the treadmill and jumping on the trampoline with constant clicks. Then, head to the towers and try to reach the highest point of any tower to take the trophies. You can collect trophies and use them to get pets, enabling you to increase your jumping ability with each click. Try to get the rarest Pets and watch them boost your clicks!",
+          "Start by growing your Obby’s jump power with training. Otherwise, it will not be able to jump high and reach new heights. In the GYM Area, you will see treadmills and trampolines. You can use them to make your Obby more athletic and boost its jump capability. However, if you are not in the mood for workouts, you can simply click on the Obby and watch the jump bar increase. Furthermore, you can activate the auto-clicks by pressing the Q Key.",
+          "After workouts, your Obby will be able to jump high. Begin by exploring Greenland and complete the missions by climbing the towers. There are 8 towers in each land: Small Tower, Wall Tower, Green Tower, Lava Tower, Wall Tower-2, Earth Tower, Purple Tower, and Big Jump Tower. Conquer all of these towers by climbing on top of them, and collect your trophies to move to the next land!"
+        ],
+        "tips": [
+          "Train first, jump higher later.",
+          "Trampoline boosts jump power quickly.",
+          "Collect trophies for stronger pets.",
+          "Climb towers for bigger rewards.",
+          "Use auto-click for faster growth."
+        ],
+        "developer": "Obby Highest Jump Ever was developed by gameVgames.",
+        "sourceUrl": "https://www.onlinegames.io/obby-highest-jump-ever/"
+      }
     },
     {
       "title": "Highway Traffic Online",
@@ -688,7 +1150,20 @@
       "image": "https://www.onlinegames.io/media/posts/32/Highway-Traffic-2.jpg",
       "description": "Highway Traffic game is centered around driving down the highway, dodging other cars, and avoiding accidents. It gets tricky because other…",
       "embed_url": "https://www.onlinegames.io/games/2022/unity/highway-traffic/index.html",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Highway Traffic game is centered around driving down the highway, dodging other cars, and avoiding accidents. It gets tricky because other vehicles are slowing down, speeding up or stopping abruptly, so you always have to keep your attention and be ready to make a quick maneuver.",
+        "controls": [
+          "W or up arrow: accelerate",
+          "A/D, or left/right arrow: steer the car",
+          "Space bar: use handbrake",
+          "Left shift or F: use car boost"
+        ],
+        "howToPlay": [],
+        "tips": [],
+        "developer": "",
+        "sourceUrl": "https://www.onlinegames.io/highway-traffic/"
+      }
     },
     {
       "title": "Papa's Donuteria Game",
@@ -733,7 +1208,29 @@
       "image": "https://www.onlinegames.io/media/posts/1265/velocity-rush.webp",
       "description": "Take control of the golf ball, dodge obstacles coming your way, and reach the finish without dropping the ball in Velocity Rush, a fast-paced arcade game!",
       "embed_url": "https://cloud.onlinegames.io/games/2026/unity/velocity-rush/game.html",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "Velocity Rush is a fast-paced arcade game where you control a golf ball through challenging obstacle courses. There are many obstacles and traps to overcome in order to reach the finish line. Use your quick reflexes and get past every kind of challenge you encounter. Keep in mind that skills and agility are crucial for playing this arcade game without dropping the ball!",
+        "controls": [
+          "A/D or Left/Right: Move",
+          "W/Up/Spacebar: Jump",
+          "ESC: Pause",
+          "C: Change View"
+        ],
+        "howToPlay": [
+          "To pass through obstacles, you may need to jump higher. It’s good to know that when you press and hold the spacebar key, the golf ball jumps to higher altitudes. You need to adjust your movements to account for the obstacles in front of you. For example, if there isn’t a very high obstacle, jumping too high may cause you to drop the ball.",
+          "To overcome obstacles as you move forward, you need to react at lightning speed. If the golf ball touches the obstacle even slightly, it results in a restart of the level you are in. So, quick reflexes are beneficial for you to pass any challenges in the courses. Our mascot, Gamie, suggests practicing the courses to sharpen your reflexes."
+        ],
+        "tips": [
+          "Master timing to avoid tricky obstacles.",
+          "Hold jump for higher controlled leaps.",
+          "Stay centered to prevent sudden falls.",
+          "React fast to dodge incoming traps.",
+          "Practice levels to sharpen reflex skills."
+        ],
+        "developer": "Velocity Rush is published by FreezeNova.",
+        "sourceUrl": "https://www.onlinegames.io/velocity-rush/"
+      }
     },
     {
       "title": "Stickman GTA City",
@@ -742,7 +1239,31 @@
       "image": "https://www.onlinegames.io/media/posts/900/stickman-gta-city-free.jpg",
       "description": "Explore Stickman GTA City, an open-world game where you steal vehicles, evade police, and take on missions with stickman twist. Play now for free!",
       "embed_url": "https://cloud.onlinegames.io/games/2024/unity3/stickman-gta-city/index-og.html",
-      "score": 60
+      "score": 60,
+      "details": {
+        "overview": "You've been digging the internet for ages, looking for a free GTA game to play on your browser, only to end up with games that disappoint faster than a balloon losing air. You might have given up hope, reminiscing about the days of cruising through GTA San Andreas or Vice City with your bro. Think of how much you missed even hearing that iconic sound, the one that plays right as the screen fades to black with a bold \"Wasted!\" slapped across it? Ah, the good old days. But wipe that frown off your face because your miserable search ends here! We have brought you an online GTA game that captures the essence of San Andreas as much as possible. Stickman GTA City is a 3D action adventure game that you can play on your browser, absolutely free. You'll be stealing cars, dodging cops, and probably accidentally running over some stick pedestrians who didn't look both ways. And tanks? Helicopters? It's like Santa's gone rogue in the crime world!",
+        "controls": [
+          "W, A, S, D: Move",
+          "Spacebar: Jump",
+          "LMB: Look Around",
+          "Shift: Sprint",
+          "C: Crouch",
+          "F: Enter or exit vehicles",
+          "Z: Aim",
+          "RMB or Ctrl: Shoot/Attack"
+        ],
+        "howToPlay": [
+          "Note: Remember there's no one-size-fits-all approach to playing open-world games. So, grab the controls, go out there and find your own way. Maybe you can tell us about your story in the comment section below.",
+          "Start by picking a place to spawn on the GTA city map.",
+          "You'll begin with your first mission of evading the police and driving to the mafia escape house.",
+          "After completing the first mission, you're free to follow mafia missions or explore the city at your own pace. You can access main and side missions using Stickman's phone. Completing missions will bring lots of cash.",
+          "Use your Stickman's skills to steal vehicles, take down enemies, and evade the cops. Collect money and weapons scattered across the city.",
+          "Check your Stickman's health level often. If health is zero, you need to start over!"
+        ],
+        "tips": [],
+        "developer": "Stickman GTA City is developed by FreezeNova.",
+        "sourceUrl": "https://www.onlinegames.io/stickman-gta-city/"
+      }
     },
     {
       "title": "CS Online Play Online",

@@ -9,6 +9,52 @@ export interface Game {
   image: string;
   description: string;
   embed_url?: string;
+  details?: {
+    overview?: string;
+    controls?: string[];
+    howToPlay?: string[];
+    tips?: string[];
+    developer?: string;
+    sourceUrl?: string;
+  };
+}
+
+const EMBEDDABLE_HOSTS = new Set([
+  'html5.gamedistribution.com',
+  'cloud.onlinegames.io',
+  'www.onlinegames.io',
+  'db.duckmath.org',
+  'bloxd.io',
+  'skribbl.io',
+]);
+
+function isAllowedEmbedUrl(embedUrl: string | undefined): boolean {
+  if (!embedUrl) return false;
+
+  try {
+    const url = new URL(embedUrl);
+    const host = url.hostname.toLowerCase();
+
+    if (host === 'itch.io') {
+      return url.pathname.startsWith('/embed/');
+    }
+
+    if (host === 'www.crazygames.com') {
+      return url.pathname.startsWith('/embed/');
+    }
+
+    if (host === 'www.onlinegames.io') {
+      return url.pathname.startsWith('/games/');
+    }
+
+    return EMBEDDABLE_HOSTS.has(host);
+  } catch {
+    return false;
+  }
+}
+
+export function isEmbeddableGame(game: Game): boolean {
+  return isAllowedEmbedUrl(game.embed_url);
 }
 
 export interface Category {
@@ -58,8 +104,9 @@ function loadGames(): Game[] {
       const raw = readFileSync(jsonPath, 'utf-8');
       const data = JSON.parse(raw);
       const games: Game[] = data.all_games || [];
-      games.sort((a: Game, b: Game) => b.score - a.score);
-      return games;
+      return games
+        .filter(isEmbeddableGame)
+        .sort((a: Game, b: Game) => b.score - a.score);
     }
   } catch (e) {
     console.warn('[games] Failed to load game data:', e);
