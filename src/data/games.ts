@@ -6,9 +6,9 @@ export interface Game {
   url: string;
   source: string;
   score: number;
-  image: string;       // og:image cover URL
-  description: string;  // og:description / short intro
-  embed_url?: string;   // real iframe embed source
+  image: string;
+  description: string;
+  embed_url?: string;
 }
 
 export interface Category {
@@ -19,26 +19,25 @@ export interface Category {
 }
 
 export const categories: Category[] = [
-  { slug: 'idle', name: '挂机 / 放置', description: '无需持续操作，轻松挂机成长的放置类游戏', keywords: ['idle', 'clicker', 'tap', 'factory', 'mining', 'craft', 'dig'] },
-  { slug: 'merge', name: '合成 / 合并', description: '合并相同元素，解锁更强道具的合成类游戏', keywords: ['merge', 'combine', 'craft'] },
-  { slug: 'survivor', name: '生存 / 幸存者', description: '在敌潮中生存，升级技能和武器的生存挑战', keywords: ['survivor', 'survive', 'survival', 'rogue', 'horde'] },
-  { slug: 'shooter', name: '射击', description: '瞄准射击，消灭敌人的爽快射击体验', keywords: ['shooter', 'shoot', 'gun', 'bullet', 'sniper', 'war', 'battle'] },
-  { slug: 'puzzle', name: '益智 / 解谜', description: '动脑思考，解开精巧谜题的益智游戏', keywords: ['puzzle', 'match', 'block', 'tetris', '2048', 'brain', 'quiz', 'word', 'memory'] },
-  { slug: 'racing', name: '赛车 / 竞速', description: '极速狂飙，体验速度与激情的竞速游戏', keywords: ['race', 'racing', 'drive', 'drift', 'car', 'speed', 'turbo', 'wheels'] },
-  { slug: 'simulator', name: '模拟', description: '模拟真实或奇幻场景的沉浸式模拟游戏', keywords: ['simulator', 'sim', 'virtual'] },
-  { slug: 'rpg', name: '角色扮演', description: '扮演英雄角色，展开史诗冒险的RPG游戏', keywords: ['rpg', 'role', 'adventure', 'hero', 'quest', 'dungeon', 'warrior', 'magic'] },
-  { slug: 'defense', name: '塔防 / 防守', description: '建造防御工事，抵御敌人进攻的策略游戏', keywords: ['defense', 'defence', 'defend', 'tower', 'fortress', 'base', 'shield'] },
-  { slug: 'battle', name: '对战 / 格斗', description: '与对手或Boss对战，比拼技巧的格斗游戏', keywords: ['battle', 'fight', 'combat', 'arena', 'duel', 'war', 'warrior'] },
+  { slug: 'idle', name: '挂机 / 放置', description: '无需持续操作，轻松挂机成长的放置类游戏', keywords: ['idle', 'tap', 'factory', 'incremental', 'production', 'earn', 'mine', 'dig', 'craft'] },
+  { slug: 'merge', name: '合成 / 合并', description: '合并相同元素，解锁更强道具的合成类游戏', keywords: ['merge', 'combine', 'mix', 'fuse', 'blend'] },
+  { slug: 'survivor', name: '生存 / 幸存者', description: '在敌潮中生存，升级技能和武器的生存挑战', keywords: ['survivor', 'survive', 'survival', 'rogue', 'horde', 'zombie', 'vampire'] },
+  { slug: 'shooter', name: '射击', description: '瞄准射击，消灭敌人的爽快射击体验', keywords: ['shooter', 'shoot', 'gun', 'bullet', 'sniper', 'soldier', 'war'] },
+  { slug: 'puzzle', name: '益智 / 解谜', description: '动脑思考，解开精巧谜题的益智游戏', keywords: ['puzzle', 'match', 'block', 'tetris', '2048', 'brain', 'quiz', 'word', 'memory', 'sudoku', 'find', 'spot'] },
+  { slug: 'racing', name: '赛车 / 竞速', description: '极速狂飙，体验速度与激情的竞速游戏', keywords: ['race', 'racing', 'drive', 'drift', 'car', 'speed', 'turbo', 'wheels', 'bike', 'moto', 'stunt'] },
+  { slug: 'simulator', name: '模拟', description: '模拟真实或奇幻场景的沉浸式模拟游戏', keywords: ['simulator', 'sim', 'virtual', 'life', 'world'] },
+  { slug: 'rpg', name: '角色扮演', description: '扮演英雄角色，展开史诗冒险的RPG游戏', keywords: ['rpg', 'role', 'adventure', 'hero', 'quest', 'dungeon', 'warrior', 'magic', 'knight', 'sword'] },
+  { slug: 'defense', name: '塔防 / 防守', description: '建造防御工事，抵御敌人进攻的策略游戏', keywords: ['defense', 'defence', 'defend', 'tower', 'fortress', 'base', 'shield', 'bastion'] },
+  { slug: 'battle', name: '对战 / 格斗', description: '与对手或Boss对战，比拼技巧的格斗游戏', keywords: ['battle', 'fight', 'combat', 'arena', 'duel', 'warrior', 'brawl', 'clash', 'war', 'knockout'] },
   { slug: 'io', name: 'IO 多人', description: '在线多人竞技，与其他玩家实时对战', keywords: ['io'] },
-  { slug: 'clicker', name: '点击器', description: '不断点击获取资源，享受数值成长的爽快感', keywords: ['clicker', 'tap', 'click'] },
-  { slug: 'craft', name: '合成 / 建造', description: '收集材料，打造工具和建筑的创造类游戏', keywords: ['craft', 'build', 'forge', 'create', 'factory', 'diy'] },
-  { slug: 'arcade', name: '街机 / 休闲', description: '轻松上手，随时随地来一局的街机风格游戏', keywords: ['arcade', 'classic', 'retro', 'jump', 'run', 'ball', 'pong', 'snake', 'pinball'] },
-  { slug: 'tycoon', name: '大亨 / 经营', description: '经营企业，赚取利润的商业模拟游戏', keywords: ['tycoon', 'business', 'empire', 'company', 'shop', 'store'] },
+  { slug: 'clicker', name: '点击器', description: '不断点击获取资源，享受数值成长的爽快感', keywords: ['clicker', 'tap', 'click', 'factory', 'earn', 'money', 'cash', 'bills', 'incremental', 'production'] },
+  { slug: 'craft', name: '建造', description: '收集材料，打造工具和建筑的创造类游戏', keywords: ['craft', 'build', 'forge', 'create', 'diy', 'builder', 'design'] },
+  { slug: 'arcade', name: '街机 / 休闲', description: '轻松上手，随时随地来一局的街机风格游戏', keywords: ['arcade', 'classic', 'retro', 'jump', 'run', 'ball', 'pong', 'snake', 'pinball', 'drift', 'punch', 'pixel'] },
+  { slug: 'tycoon', name: '大亨 / 经营', description: '经营企业，赚取利润的商业模拟游戏', keywords: ['tycoon', 'business', 'empire', 'company', 'shop', 'store', 'restaurant', 'cafe', 'bakery', 'donut', 'pizza', 'hotel', 'fashion', 'farm', 'market', 'snack', 'perfect', 'design'] },
 ];
 
 /** Get the latest scan JSON file path */
 function getLatestScanPath(): string {
-  // Check project src/data directory
   const localDir = path.resolve('src/data');
   try {
     const files = readdirSync(localDir).filter(f => f.startsWith('scan-') && f.endsWith('.json'));
@@ -49,11 +48,9 @@ function getLatestScanPath(): string {
   } catch {
     // not found
   }
-  // Fallback: scan-2026-05-20.json as shipped static file
   return path.resolve('src/data/scan-2026-05-19.json');
 }
 
-// Try loading game data from JSON
 function loadGames(): Game[] {
   const jsonPath = getLatestScanPath();
   try {
@@ -82,6 +79,12 @@ export function getGameByTitle(title: string): Game | undefined {
   );
 }
 
+export function searchGames(query: string): Game[] {
+  const q = query.toLowerCase().trim();
+  if (!q) return [];
+  return allGames.filter((g) => g.title.toLowerCase().includes(q));
+}
+
 export function getGamesByCategory(categorySlug: string): Game[] {
   const cat = categories.find((c) => c.slug === categorySlug);
   if (!cat) return [];
@@ -92,7 +95,6 @@ export function getGamesByCategory(categorySlug: string): Game[] {
   });
 }
 
-/** Get the count of games per category (for display on homepage) */
 export function getCategoryGameCounts(): Record<string, number> {
   const counts: Record<string, number> = {};
   for (const cat of categories) {

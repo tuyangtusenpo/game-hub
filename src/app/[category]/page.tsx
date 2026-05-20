@@ -32,8 +32,8 @@ function GameCard({ game }: { game: { title: string; image?: string } }) {
             loading="lazy"
           />
         ) : (
-          <div className="flex items-center justify-center h-full text-zinc-300 text-sm">
-            暂无封面
+          <div className="flex items-center justify-center h-full bg-gradient-to-br from-indigo-100 to-purple-100">
+            <span className="text-3xl">🎮</span>
           </div>
         )}
       </div>

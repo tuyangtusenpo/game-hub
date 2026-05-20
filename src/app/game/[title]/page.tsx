@@ -122,8 +122,8 @@ export default async function GameDetailPage({ params }: PageProps) {
                     />
                   </div>
                 ) : (
-                  <div className="aspect-video bg-zinc-100 flex items-center justify-center text-zinc-300 text-xs">
-                    暂无封面
+                  <div className="aspect-video bg-gradient-to-br from-indigo-100 to-purple-100 flex items-center justify-center">
+                    <span className="text-2xl">🎮</span>
                   </div>
                 )}
                 <div className="p-3">
