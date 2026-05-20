@@ -1,1503 +1,910 @@
 {
   "scan_date": "2026-05-20",
-  "total_games": 166,
+  "total_games": 100,
   "sources": {
-    "CrazyGames": 70,
-    "Poki": 60,
-    "itch.io": 36
+    "OnlineGames.io": 40,
+    "Poki": 60
   },
-  "top_recommendations": [
-    {
-      "title": "Ragdoll Factory Idle",
-      "url": "https://www.crazygames.com/game/ragdoll-factory-idle",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 10,
-      "opportunity": 10.0,
-      "image": "https://imgs.crazygames.com/ragdoll-factory-idle_16x9/20260518073215/ragdoll-factory-idle_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Ragdoll Factory Idle is a clicker game where you build your very own chaotic ragdoll production line!In Ragdoll Factory, every drop counts. Launch ragdolls, trigger physics-based chaos, and watch your",
-      "embed_url": "https://games.crazygames.com/en_US/ragdoll-factory-idle/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Doodle RPG Survivor",
-      "url": "https://www.crazygames.com/game/doodle-rpg-survivor",
-      "source": "CrazyGames",
-      "score": 95,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 150,
-      "opportunity": 0.6667,
-      "image": "https://imgs.crazygames.com/doodle-rpg-survivor_16x9/20260509133611/doodle-rpg-survivor_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Scribble your way through waves of classroom doodles in this notebook-themed survivor RPG. Spells cast automatically, while you focus on dodging enemies and choosing upgrades.Battle through 16 stages ",
-      "embed_url": "https://games.crazygames.com/en_US/doodle-rpg-survivor/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Gang Merge & Fight",
-      "url": "https://www.crazygames.com/game/gang-merge-fight",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 242,
-      "opportunity": 0.4132,
-      "image": "https://imgs.crazygames.com/gang-merge-fight_16x9/20260421074257/gang-merge-fight_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Gang Merge &amp; Fight is a chaotic strategy brawler where you fuse quirky heroes into stronger versions and send them into battle. Every merge boosts your squad’s power, letting you build wild combin",
-      "embed_url": "https://games.crazygames.com/en_US/gang-merge-fight/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Pickaxe Crusher Idle",
-      "url": "https://www.crazygames.com/game/pickaxe-crusher-idle",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 498,
-      "opportunity": 0.2008,
-      "image": "https://imgs.crazygames.com/pickaxe-crusher-idle_16x9/20260409081116/pickaxe-crusher-idle_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Dive into the thrilling world of underground mines in Pickaxe Crusher Idle. Play as a daring miner with a bouncing pickaxe, dashing left and right to explore deeper and deeper into the caves.Collect r",
-      "embed_url": "https://games.crazygames.com/en_US/pickaxe-crusher-idle/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Monster Mixer Idle",
-      "url": "https://www.crazygames.com/game/monster-mixer-idle",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 634,
-      "opportunity": 0.1577,
-      "image": "https://imgs.crazygames.com/monster-mixer-idle_16x9/20260508040955/monster-mixer-idle_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Monster Mixer Idle is an arcade game where you gather different elements and create monsters out of them. Send your monsters into battle to defeat enemies and earn cash rewards.",
-      "embed_url": "https://games.crazygames.com/en_US/monster-mixer-idle/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    }
-  ],
   "all_games": [
     {
-      "title": "Ragdoll Factory Idle",
-      "url": "https://www.crazygames.com/game/ragdoll-factory-idle",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 10,
-      "opportunity": 10.0,
-      "image": "https://imgs.crazygames.com/ragdoll-factory-idle_16x9/20260518073215/ragdoll-factory-idle_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Ragdoll Factory Idle is a clicker game where you build your very own chaotic ragdoll production line!In Ragdoll Factory, every drop counts. Launch ragdolls, trigger physics-based chaos, and watch your",
-      "embed_url": "https://games.crazygames.com/en_US/ragdoll-factory-idle/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Doodle RPG Survivor",
-      "url": "https://www.crazygames.com/game/doodle-rpg-survivor",
-      "source": "CrazyGames",
-      "score": 95,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 150,
-      "opportunity": 0.6667,
-      "image": "https://imgs.crazygames.com/doodle-rpg-survivor_16x9/20260509133611/doodle-rpg-survivor_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Scribble your way through waves of classroom doodles in this notebook-themed survivor RPG. Spells cast automatically, while you focus on dodging enemies and choosing upgrades.Battle through 16 stages ",
-      "embed_url": "https://games.crazygames.com/en_US/doodle-rpg-survivor/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Gang Merge & Fight",
-      "url": "https://www.crazygames.com/game/gang-merge-fight",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 242,
-      "opportunity": 0.4132,
-      "image": "https://imgs.crazygames.com/gang-merge-fight_16x9/20260421074257/gang-merge-fight_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Gang Merge &amp; Fight is a chaotic strategy brawler where you fuse quirky heroes into stronger versions and send them into battle. Every merge boosts your squad’s power, letting you build wild combin",
-      "embed_url": "https://games.crazygames.com/en_US/gang-merge-fight/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Pickaxe Crusher Idle",
-      "url": "https://www.crazygames.com/game/pickaxe-crusher-idle",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 498,
-      "opportunity": 0.2008,
-      "image": "https://imgs.crazygames.com/pickaxe-crusher-idle_16x9/20260409081116/pickaxe-crusher-idle_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Dive into the thrilling world of underground mines in Pickaxe Crusher Idle. Play as a daring miner with a bouncing pickaxe, dashing left and right to explore deeper and deeper into the caves.Collect r",
-      "embed_url": "https://games.crazygames.com/en_US/pickaxe-crusher-idle/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Monster Mixer Idle",
-      "url": "https://www.crazygames.com/game/monster-mixer-idle",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 634,
-      "opportunity": 0.1577,
-      "image": "https://imgs.crazygames.com/monster-mixer-idle_16x9/20260508040955/monster-mixer-idle_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Monster Mixer Idle is an arcade game where you gather different elements and create monsters out of them. Send your monsters into battle to defeat enemies and earn cash rewards.",
-      "embed_url": "https://games.crazygames.com/en_US/monster-mixer-idle/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Idle Gun Survivor",
-      "url": "https://www.crazygames.com/game/idle-gun-survivor",
-      "source": "CrazyGames",
-      "score": 95,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 3510,
-      "opportunity": 0.0285,
-      "image": "https://imgs.crazygames.com/idle-gun-survivor_16x9/20260511060139/idle-gun-survivor_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Sprint forward and unleash relentless firepower.Upgrade your weapons, merge epic gear, and choose powerful roguelike skills to survive endless waves of enemies across diverse worlds.",
-      "embed_url": "https://games.crazygames.com/en_US/idle-gun-survivor/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Steal Brainrot Survivors",
-      "url": "https://www.crazygames.com/game/steal-brainrot-survivors-ddq",
-      "source": "CrazyGames",
-      "score": 80,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 4420,
-      "opportunity": 0.0226,
-      "image": "https://imgs.crazygames.com/steal-brainrot-survivors-ddq_16x9/20260519052241/steal-brainrot-survivors-ddq_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "A tsunami of Brainrots is overwhelming everything, and the world is reaching peak chaos.Awakened in this strange land, there is no escape. You must take on the role of the ultimate survivor.",
-      "embed_url": "https://games.crazygames.com/en_US/steal-brainrot-survivors-ddq/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Jurassic Merge: Dino Evolution",
-      "url": "https://www.crazygames.com/game/jurassic-merge-dino-evolution",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 4510,
-      "opportunity": 0.0222,
-      "image": "https://imgs.crazygames.com/jurassic-merge-dino-evolution_16x9/20260130104217/jurassic-merge-dino-evolution_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Jurassic Merge: Dino Evolution is an exciting game where you can create and upgrade dinosaurs by merging them to reach their maximum power!",
-      "embed_url": "https://games.crazygames.com/en_US/jurassic-merge-dino-evolution/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Watermelon Fruit Merge Saga",
-      "url": "https://www.crazygames.com/game/watermelon-fruit-merge-saga",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 11400,
-      "opportunity": 0.0088,
-      "image": "https://imgs.crazygames.com/watermelon-fruit-merge-saga_16x9/20260506031355/watermelon-fruit-merge-saga_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Merge, grow, and chase your high score in this addictive fruit puzzle. Drag and combine identical fruits to create bigger ones.",
-      "embed_url": "https://games.crazygames.com/en_US/watermelon-fruit-merge-saga/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Fortress Merge",
-      "url": "https://www.crazygames.com/game/fortress-merge",
-      "source": "CrazyGames",
-      "score": 75,
-      "trends_peak": 0,
-      "trends_avg": 0.0,
-      "serp_count": 52400,
-      "opportunity": 0.0019,
-      "image": "https://imgs.crazygames.com/fortress-merge_16x9/20260501092828/fortress-merge_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Fortress Merge: Puzzle Defense is your next addictive obsession in the world of strategy games!",
-      "embed_url": "https://games.crazygames.com/en_US/fortress-merge/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Bloons Survival IO Online",
+      "url": "https://www.onlinegames.io/bloons-survival-io/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1280/bloons-survival-io.webp",
+      "description": "Shoot the stalking balloons with your darts by controlling your monkey in Bloons Survival IO, a fast-paced arcade game!",
+      "embed_url": "https://html5.gamedistribution.com/0340635cab9e421ca6c3cda5acaa03f1/",
+      "score": 80
     },
     {
       "title": "Bubble Tower",
       "url": "https://poki.com/en/g/bubble-tower",
       "source": "Poki",
-      "score": 75,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/bb2c2a874c2139dd0f60865a01845795/bubble-tower-logo.png",
       "description": "Play Bubble Tower on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/0661df6b-06c3-4b1a-bfa6-7e332db31028?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/bubble-tower&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=72,254,1141,1155&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/0661df6b-06c3-4b1a-bfa6-7e332db31028?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/bubble-tower&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=72,254,1141,1155&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 75
     },
     {
       "title": "Zombie Merge",
       "url": "https://poki.com/en/g/zombie-merge",
       "source": "Poki",
-      "score": 75,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/93225e679bfb0f90184b44c45b5e360a/zombie-merge-logo.png",
       "description": "Play Zombie Merge on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/ae3e2a0a-4a87-45fb-b038-8bd10573897b?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/zombie-merge&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,58,1018,1141,1155&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/ae3e2a0a-4a87-45fb-b038-8bd10573897b?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/zombie-merge&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,58,1018,1141,1155&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 75
     },
     {
       "title": "Tower Emoji Defense",
       "url": "https://poki.com/en/g/tower-emoji-defense",
       "source": "Poki",
-      "score": 75,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/4a087636d50a1c199b4658f763f13f6d/tower-emoji-defense-logo.png",
       "description": "Play Tower Emoji Defense on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/d17270cd-c367-48f9-be70-c825cdddefd9?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/tower-emoji-defense&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=66,96,257,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/d17270cd-c367-48f9-be70-c825cdddefd9?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/tower-emoji-defense&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=66,96,257,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 75
     },
     {
       "title": "Jane's Fashion Studio",
       "url": "https://poki.com/en/g/janes-fashion-studio",
       "source": "Poki",
-      "score": 75,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/66efff2ef6dd0020a2e6e03ff2633d12/janes-fashion-studio-logo.png",
       "description": "Play Jane's Fashion Studio on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/c4a4d68f-9d89-4df4-bff8-4b53ef0dc71f?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/janes-fashion-studio&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,29,85,94,201,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/c4a4d68f-9d89-4df4-bff8-4b53ef0dc71f?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/janes-fashion-studio&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,29,85,94,201,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 75
     },
     {
       "title": "Jelly Fruit Merge",
       "url": "https://poki.com/en/g/jelly-fruit-merge",
       "source": "Poki",
-      "score": 75,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/2f6a2b2822daa52d8f177c7b77a0634d/jelly-fruit-merge-logo.png",
       "description": "Play Jelly Fruit Merge on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/8fe9d422-441f-4db0-91b0-218406f25485?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/jelly-fruit-merge&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1013,1141,1155,1186&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/8fe9d422-441f-4db0-91b0-218406f25485?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/jelly-fruit-merge&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1013,1141,1155,1186&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 75
     },
     {
-      "title": "Tetris Shooter",
-      "url": "",
-      "source": "itch.io",
-      "score": 70
-    },
-    {
-      "title": "Battle Fleet World",
-      "url": "https://www.crazygames.com/game/battle-fleet-world-qzp",
-      "source": "CrazyGames",
-      "score": 70,
-      "image": "https://imgs.crazygames.com/battle-fleet-world-qzp_16x9/20260518100129/battle-fleet-world-qzp_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Take command of a warship in a single persistent world that never resets. You begin with a fast and agile Destroyer, navigating dangerous seas where every ship you encounter is either another player o",
-      "embed_url": "https://games.crazygames.com/en_US/battle-fleet-world-qzp/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Life Simulator: Road to Riches",
-      "url": "https://www.crazygames.com/game/life-simulator-road-to-riches",
-      "source": "CrazyGames",
-      "score": 70,
-      "image": "https://imgs.crazygames.com/life-simulator-road-to-riches_16x9/20260518051530/life-simulator-road-to-riches_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Starting at the very bottom in grim slums with empty pockets, you have only one way forward - rise to the top. \"Life Simulator:",
-      "embed_url": "https://games.crazygames.com/en_US/life-simulator-road-to-riches/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Stickman Shooter: Level Up",
-      "url": "https://www.crazygames.com/game/stickman-shooter-level-up",
-      "source": "CrazyGames",
-      "score": 70,
-      "image": "https://imgs.crazygames.com/stickman-shooter-level-up_16x9/20260505112326/stickman-shooter-level-up_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Stickman Shooter: Level Up is a fast-paced 2D shooting game with RPG progression, a unique art style, and addictive gameplay.Jump into action as a growing gun hero—shoot enemies, upgrade your stats, u",
-      "embed_url": "https://games.crazygames.com/en_US/stickman-shooter-level-up/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Battle Brigade",
-      "url": "https://www.crazygames.com/game/battle-brigade",
-      "source": "CrazyGames",
-      "score": 70,
-      "image": "https://imgs.crazygames.com/battle-brigade_16x9/20260420092345/battle-brigade_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Battle Brigade is an action-packed shooter where you build a powerful squad of soldiers while advancing through chaotic battlefields. Your mission is to grow your brigade, upgrade your firepower, and ",
-      "embed_url": "https://games.crazygames.com/en_US/battle-brigade/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Truck Simulator: European Roads",
-      "url": "https://www.crazygames.com/game/truck-simulator-european-roads",
-      "source": "CrazyGames",
-      "score": 70,
-      "image": "https://imgs.crazygames.com/truck-simulator-european-roads_16x9/20260406091753/truck-simulator-european-roads_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Truck Simulator: European Roads is a simulation game where you step into the role of a professional truck driver.",
-      "embed_url": "https://games.crazygames.com/en_US/truck-simulator-european-roads/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Knockout Legends: Battle Streets",
-      "url": "https://www.crazygames.com/game/knockout-legends-battle-streets",
-      "source": "CrazyGames",
-      "score": 70,
-      "image": "https://imgs.crazygames.com/knockout-legends-battle-streets_16x9/20260501081531/knockout-legends-battle-streets_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Step into the fight and take on the city alone! Battle through waves of enemies, face epic bosses with massive health, and survive dynamic snowy, rainy, and sunny streets.",
-      "embed_url": "https://games.crazygames.com/en_US/knockout-legends-battle-streets/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Smash Defense Online",
+      "url": "https://www.onlinegames.io/smash-defense/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1282/smash-defense.webp",
+      "description": "Smash the baseball and knock down flying monsters before they reach your base in Smash Defense, a fast-paced arcade game!",
+      "embed_url": "https://html5.gamedistribution.com/ebe613bf6d5b44ad8908c7a36a710b7b/",
+      "score": 75
     },
     {
       "title": "Stickman Battle",
       "url": "https://poki.com/en/g/stickman-battle",
       "source": "Poki",
-      "score": 70,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/1713b398244b68547088d6c427d4b3a2/stickman-battle-logo.png",
       "description": "Stickman Battle lets you engage in physics-based fighting. This action game features stick figures battling with weapons on platforms. Use swords, axes, and more to defeat your opponent. Master the st",
-      "embed_url": "https://games.poki.com/458768/ecb23f7f-98a2-4c92-b33e-d1b7ac2c1c68?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/stickman-battle&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=49,80,750,927,1140,1141,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/ecb23f7f-98a2-4c92-b33e-d1b7ac2c1c68?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/stickman-battle&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=49,80,750,927,1140,1141,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 70
     },
     {
       "title": "Satisbox Builder",
       "url": "https://poki.com/en/g/satisbox-builder",
       "source": "Poki",
-      "score": 70,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/75f12ad18fbbfe2614698396f67a017d/satisbox-builder-logo.png",
       "description": "Play Satisbox Builder on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/1a2dcb95-0003-4415-9285-489589e30235?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/satisbox-builder&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=7,74,87,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/1a2dcb95-0003-4415-9285-489589e30235?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/satisbox-builder&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=7,74,87,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 70
     },
     {
       "title": "Fashion Tour Simulator",
       "url": "https://poki.com/en/g/fashion-tour-simulator",
       "source": "Poki",
-      "score": 70,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/a79614f0fccbe41c4c18df9fd5dba8ba/fashion-tour-simulator-logo.png",
       "description": "Play Fashion Tour Simulator on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/26d59dd8-4be1-4e8e-90de-c8ea38e52505?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/fashion-tour-simulator&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=29,85,94,201,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/26d59dd8-4be1-4e8e-90de-c8ea38e52505?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/fashion-tour-simulator&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=29,85,94,201,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 70
     },
     {
       "title": "Magic Battleground",
       "url": "https://poki.com/en/g/magic-battleground",
       "source": "Poki",
-      "score": 70,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/4091b9ad785d941ad51cb7ae59897a2a/magic-battleground-logo.png",
       "description": "Play Magic Battleground on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/cf171ed2-f35a-41c6-8130-c84a809e2a41?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/magic-battleground&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,49,80,1013,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/cf171ed2-f35a-41c6-8130-c84a809e2a41?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/magic-battleground&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,49,80,1013,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 70
     },
     {
-      "title": "idle primes",
-      "url": "",
-      "source": "itch.io",
-      "score": 65
+      "title": "Mafia Sniper Crime Shooting Online",
+      "url": "https://www.onlinegames.io/mafia-sniper-crime-shooting/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1278/mafia-sniper-crime-shooting.webp",
+      "description": "Grab your sniper rifle, take your place on the rooftop, and save the civilians from the mafia members in Mafia Sniper Crime Shooting, a 3D shooting game!",
+      "embed_url": "https://html5.gamedistribution.com/5083a63adc7248d8b04dd72cde2eb78c/",
+      "score": 70
+    },
+    {
+      "title": "Life Simulator Play For Free",
+      "url": "https://www.onlinegames.io/life-simulator/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/998/life-simulator.jpg",
+      "description": "Do you need a break from your own life? Would you like to act like a completely different person with…",
+      "embed_url": "https://html5.gamedistribution.com/ac6a950a44d144139dabe7837aa4aab9/",
+      "score": 70
+    },
+    {
+      "title": "Eagle DuckCraft Online",
+      "url": "https://www.onlinegames.io/eagle-duckcraft/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1195/eagle-duckcraft.webp",
+      "description": "Explore the blocky world, collect resources, and craft tools to survive. Or, build your own imaginative world in Eagle DuckCraft, an online sandbox game!",
+      "embed_url": "https://db.duckmath.org/html/minecraft/duckcraft/duckcraft-v1",
+      "score": 70
+    },
+    {
+      "title": "Cookie Clicker Online",
+      "url": "https://www.onlinegames.io/cookie-clicker/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1269/cookie-clicker.webp",
+      "description": "Click on the giant cookie and produce more chocolate chip cookies with the help of grandmas in Cookie Clicker, an idle clicker game!",
+      "embed_url": "https://cloud.onlinegames.io/cdn/index.html",
+      "score": 70
+    },
+    {
+      "title": "GTA Simulator",
+      "url": "https://www.onlinegames.io/gta-simulator/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/416/GTA-Simulator.jpg",
+      "description": "You know that famous GTA video game series, right? Well, meet its online and free version on OnlineGames.io. GTA Simulator…",
+      "embed_url": "https://www.onlinegames.io/games/2023/unity2/gta-simulator/index.html",
+      "score": 70
     },
     {
       "title": "Crazy Merge",
       "url": "https://poki.com/en/g/crazy-merge",
       "source": "Poki",
-      "score": 65,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/c0c0137449005445d3fc39502d3b689c/crazy-merge-logo.png",
       "description": "Play Crazy Merge on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/f9151e25-075e-4952-ab29-685372b84be6?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/crazy-merge&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=7,72,1141,1155,1206&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
-    },
-    {
-      "title": "Would You Like Some Cake?",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "COLESO FORTUNE Lukʼyanіvka",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Piece Of Cake",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Deadmen Treasure",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "To The Summit!",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Membrillo Hid My Socks",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Playclette the game",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Noel the beloved fate",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "We Became What We Beheld",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Day XIII : Prey For Us",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Incredibox - Sprunki Phase 2: Mr. Simon Take (OFFICIAL UPDATE!)",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Incredibox sprunki:the plant's revenge",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Space Garden",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Arbys Camp Game",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Blasterball 2 Reimplementation Demo",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Irritated Birds",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Forbidenclave",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Ancestral Legends Echoes of $4.99",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Roblox's Coins",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Queens Royal: Logic Puzzle (Demo)",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Blossoms of Wealth Demo",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Falling Letters web",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "One night at hound dogs 3: INSANITY",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "DeepWaters_v2",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "EmojiTrainer",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Fulbo Stars ⚽ Party Demo",
-      "url": "",
-      "source": "itch.io",
-      "score": 60
-    },
-    {
-      "title": "Gameloft Sports Minigame Collection",
-      "url": "https://www.crazygames.com/game/gameloft-sports-minigame-collection",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/gameloft-sports-minigame-collection_16x9/20260312074836/gameloft-sports-minigame-collection_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Gameloft Sports Minigame Collection is a fun-packed collection of exciting sports challenges inspired by the world’s biggest sporting event.Compete in a variety of competitions, including the 100 metr",
-      "embed_url": "https://games.crazygames.com/en_US/gameloft-sports-minigame-collection/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Tank Evolution",
-      "url": "https://www.crazygames.com/game/tank-evolution",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/tank-evolution_16x9/20260515075315/tank-evolution_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "You are a rookie who must embark on a long journey to obtain unlimited power that only you can control.Every run, every attempt, and every defeat is part of the path toward perfection. Do not fear fai",
-      "embed_url": "https://games.crazygames.com/en_US/tank-evolution/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Pinball Mania",
-      "url": "https://www.crazygames.com/game/pinball-mania-grv",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/pinball-mania-grv_16x9/20260515040955/pinball-mania-grv_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Pinball Mania is an addictive pinball roguelike where every run grows more chaotic and rewarding. Upgrade your pegs, chain wild modifiers, and transform your machine into a profit-spewing pinball powe",
-      "embed_url": "https://games.crazygames.com/en_US/pinball-mania-grv/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Cars vs Zombies",
-      "url": "https://www.crazygames.com/game/cars-vs-zombies",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/cars-vs-zombies_16x9/20260515033508/cars-vs-zombies_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Cars vs Zombies is an arcade vehicular survival action game. Drive your car, annihilate waves of zombies, and destroy the interactive environment in the arenas.",
-      "embed_url": "https://games.crazygames.com/en_US/cars-vs-zombies/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Fluid Enigma",
-      "url": "https://www.crazygames.com/game/fluid-enigma-ulq",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/fluid-enigma-ulq_16x9/20260417065910/fluid-enigma-ulq_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Mix and manipulate strange, realistically simulated fluids.Take advantage of fluids with unique properties to solve puzzles and complete parkour sections.Toggle valves and push carts to route fluids t",
-      "embed_url": "https://games.crazygames.com/en_US/fluid-enigma-ulq/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Swarm Together",
-      "url": "https://www.crazygames.com/game/swarm-together",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/swarm-together_16x9/20260511034811/swarm-together_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Swarm Together is a co-op horde survival game for 2 to 4 players. Team up with friends and fight to survive endless waves of alien bugs swarming your arena.",
-      "embed_url": "https://games.crazygames.com/en_US/swarm-together/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Earn to Die: New Ride",
-      "url": "https://www.crazygames.com/game/earn-to-die-new-ride",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/earn-to-die-new-ride_16x9/20260519080534/earn-to-die-new-ride_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Drive your car through hordes of zombies as you journey across a post-apocalyptic world.An evacuation attempt has failed, and your only chance of survival lies beyond a city overrun by the undead. Sma",
-      "embed_url": "https://games.crazygames.com/en_US/earn-to-die-new-ride/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Fun Ragdoll Challenge!",
-      "url": "https://www.crazygames.com/game/fun-ragdoll-challenge",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/fun-ragdoll-challenge_16x9/20260408073000/fun-ragdoll-challenge_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Fun Ragdoll Challenge! Mini Games Collection!",
-      "embed_url": "https://games.crazygames.com/en_US/fun-ragdoll-challenge/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Cubes 2048 Royale",
-      "url": "https://www.crazygames.com/game/cubes-2048-royale",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/cubes-2048-royale_16x9/20260515073810/cubes-2048-royale_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Cubes 2048 Royale is an addictive online multiplayer game that blends the best of Snake, 2048, and battle royale gameplay. Grow your cube by collecting numbers, merging equal values, and consuming sma",
-      "embed_url": "https://games.crazygames.com/en_US/cubes-2048-royale/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Sandbox: Particle World",
-      "url": "https://www.crazygames.com/game/sandbox-particle-world",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/sandbox-particle-world_16x9/20260414052058/sandbox-particle-world_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Sandbox: Particle World is a creative simulator sandbox with realistic particle physics.",
-      "embed_url": "https://games.crazygames.com/en_US/sandbox-particle-world/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Find The Cow",
-      "url": "https://www.crazygames.com/game/find-the-cow-lqn",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/find-the-cow-lqn_16x9/20260416083431/find-the-cow-lqn_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Find The Cow is a minimalist grid-based deduction game where your goal is to find all the hidden cows while following strict logical constraints. Each row, each column, and each color zone must contai",
-      "embed_url": "https://games.crazygames.com/en_US/find-the-cow-lqn/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Monkey School Prank",
-      "url": "https://www.crazygames.com/game/i-am-monkey-school-pranskter",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/i-am-monkey-school-pranskter_16x9/20260429153434/i-am-monkey-school-pranskter_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Monkey School Prank throws you into the most unhinged school ever, where rules do not exist and chaos is the only goal. Play as a troublemaking monkey determined to turn the entire school into a playg",
-      "embed_url": "https://games.crazygames.com/en_US/i-am-monkey-school-pranskter/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Zombie Protocol",
-      "url": "https://www.crazygames.com/game/zombie-protocol",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/zombie-protocol_16x9/20260518104136/zombie-protocol_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Zombie Protocol is a dynamic strategy game where you command a squad against relentless waves of zombies, and every decision affects your survival.You begin with a small squad and an energy generator,",
-      "embed_url": "https://games.crazygames.com/en_US/zombie-protocol/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Surf GO Parkour",
-      "url": "https://www.crazygames.com/game/surf-go-parkour",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/surf-go-parkour_16x9/20260504052232/surf-go-parkour_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Surf Go is a parkour game with a bhop and surf theme. Jump on platforms and ramps, explore levels, and find secret skins.",
-      "embed_url": "https://games.crazygames.com/en_US/surf-go-parkour/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Ladder to Brainhot: Climb",
-      "url": "https://www.crazygames.com/game/ladder-to-brainhot-climb",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/ladder-to-brainhot-climb_16x9/20260508105744/ladder-to-brainhot-climb_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Ladder to Brainhot: Climb is a fun climbing game packed with Brainhots.Brainhots are tiny, adorable, and incredibly fun creatures waiting for you to climb to the top and snatch them.Explore a variety ",
-      "embed_url": "https://games.crazygames.com/en_US/ladder-to-brainhot-climb/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Spot the Difference Forever",
-      "url": "https://www.crazygames.com/game/spot-the-difference-forever",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/spot-the-difference-forever_16x9/20260401105355/spot-the-difference-forever_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "You will find all these features in our magazine game \"Find The Difference - Forever\", and perhaps you will not find these features in any other game where you need to spot the differences.We hope you",
-      "embed_url": "https://games.crazygames.com/en_US/spot-the-difference-forever/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Destructors Online",
-      "url": "https://www.crazygames.com/game/destructors-online",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/destructors-online_16x9/20260514064400/destructors-online_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Destructors Online is a multiplayer action game where you can team up with friends and battle for survival in a distant future. Set in a world devastated by war, two powerful robot factions, the Destr",
-      "embed_url": "https://games.crazygames.com/en_US/destructors-online/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Sudoku Classic & Killer",
-      "url": "https://www.crazygames.com/game/sudoku-classic-killer",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/sudoku-classic-killer_16x9/20260417081436/sudoku-classic-killer_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Sudoku, the classic number puzzle, beautifully designed and packed with features.Place numbers 1-9 in every row, column, and 3x3 box. No repeats allowed.",
-      "embed_url": "https://games.crazygames.com/en_US/sudoku-classic-killer/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "I Am Quadrober!",
-      "url": "https://www.crazygames.com/game/i-am-quadrober",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/i-am-quadrober_16x9/20260417060318/i-am-quadrober_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Quadrober Simulator in a Small TownUnleash total chaos and turn the whole place upside down!Blow everything up, smash obstacles, soar through the skies with a jetpack, grab townspeople with your long ",
-      "embed_url": "https://games.crazygames.com/en_US/i-am-quadrober/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "My Perfect Theme Park",
-      "url": "https://www.crazygames.com/game/my-theme-park-hka",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/my-theme-park-hka_16x9/20260515073723/my-theme-park-hka_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Build Your Dream Theme Park EmpireCreate and manage the ultimate amusement park in this addictive and entertaining theme park simulator. Start with a small patch of land and grow it into a thriving en",
-      "embed_url": "https://games.crazygames.com/en_US/my-theme-park-hka/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Trash Master",
-      "url": "https://www.crazygames.com/game/trash-master-rpk",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/trash-master-rpk_16x9/20260421153639/trash-master-rpk_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Trash Master is a simulation game where you are the director of a waste recycling plant. There is no room for accidents here.",
-      "embed_url": "https://games.crazygames.com/en_US/trash-master-rpk/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Bills Must Be Paid",
-      "url": "https://www.crazygames.com/game/bills-must-be-paid",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/bills-must-be-paid_16x9/20260507092440/bills-must-be-paid_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "You're broke, smash piggy banks, bills must be paid. A short active incremental game.",
-      "embed_url": "https://games.crazygames.com/en_US/bills-must-be-paid/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Soldiers - Capture and Control!",
-      "url": "https://www.crazygames.com/game/soldiers---capture-and-control",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/soldiers---capture-and-control_16x9/20260325023419/soldiers---capture-and-control_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Step into a battlefield where childhood toys clash in an action-packed war between rival soldier factions. Command your forces, capture strategic points, and fight your way to victory.Your objective i",
-      "embed_url": "https://games.crazygames.com/en_US/soldiers---capture-and-control/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Cart Ride Danger Mount",
-      "url": "https://www.crazygames.com/game/cart-ride-danger-mount",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/cart-ride-danger-mount_16x9/20260413102936/cart-ride-danger-mount_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Upgrade your cart to incredible speeds and race to the top of the slide before everyone else.Unlock a wide variety of carts, collect adorable pets, and customize your adventure with unique skins as yo",
-      "embed_url": "https://games.crazygames.com/en_US/cart-ride-danger-mount/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Cowboy Lasso Master",
-      "url": "https://www.crazygames.com/game/cowboy-lasso-hunting-idle-tycoon",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/cowboy-lasso-hunting-idle-tycoon_16x9/20260511071304/cowboy-lasso-hunting-idle-tycoon_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Step into the Wild West in Cowboy Lasso Hunter: Wild Ranch Master, an exciting hunting and ranch-building adventure game.",
-      "embed_url": "https://games.crazygames.com/en_US/cowboy-lasso-hunting-idle-tycoon/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Farm-51: Secret Harvest",
-      "url": "https://www.crazygames.com/game/farm-51-secret-harvest",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/farm-51-secret-harvest_16x9/20260518072912/farm-51-secret-harvest_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Farm-51: Secret Harvest is a veteran of classified operations.",
-      "embed_url": "https://games.crazygames.com/en_US/farm-51-secret-harvest/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Stellar Bastion",
-      "url": "https://www.crazygames.com/game/stellar-bastion",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/stellar-bastion_16x9/20260511025412/stellar-bastion_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Stellar Bastion is a 2D retro space tower defense game where combining towers is the key to victory.Place lasers, cannons, tesla coils, slow towers, and missiles across 6 unique maps. Position them ne",
-      "embed_url": "https://games.crazygames.com/en_US/stellar-bastion/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Break a Lucky Egg Brainrots",
-      "url": "https://www.crazygames.com/game/break-a-lucky-egg-brainrots",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/break-a-lucky-egg-brainrots_16x9/20260414073733/break-a-lucky-egg-brainrots_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Break a Lucky Egg Brainrots is a fast-paced collection and action game where risk and strategy meet. Break eggs, collect valuable characters, and return safely to your base before time runs out.Each r",
-      "embed_url": "https://games.crazygames.com/en_US/break-a-lucky-egg-brainrots/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Cat Snack Bar",
-      "url": "https://www.crazygames.com/game/cat-snack-bar",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/cat-snack-bar_16x9/20260511062358/cat-snack-bar_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Embark on a unique cat simulator and restaurant adventure where your passion for food meets the charm of feline companions. Cat Snack Bar blends food preparation and cat management into an engaging ty",
-      "embed_url": "https://games.crazygames.com/en_US/cat-snack-bar/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Racing: Online!",
-      "url": "https://www.crazygames.com/game/racing-online-fph",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/racing-online-fph_16x9/20260508020949/racing-online-fph_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Experience real online racing right in your browser.Compete against players from around the world and climb to the top of the leaderboards.What’s InsideDrift mechanics for skill-based drivingUnique ca",
-      "embed_url": "https://games.crazygames.com/en_US/racing-online-fph/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Shatter Knight",
-      "url": "https://www.crazygames.com/game/shatter-knight",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/shatter-knight_16x9/20260430080704/shatter-knight_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Shatter Knight is a platformer arcade game where you control a knight with the unique ability to change and shatter his armor to gain different powers. Switch between armor types strategically to over",
-      "embed_url": "https://games.crazygames.com/en_US/shatter-knight/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "My Perfect Farm",
-      "url": "https://www.crazygames.com/game/my-perfect-farm",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/my-perfect-farm_16x9/20260505063325/my-perfect-farm_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Your dream farm takes shape in My Perfect Farm, one of the most relaxed simulation games out there.Begin with a tiny patch of arable land and build a full farm tycoon. What was tiny becomes something ",
-      "embed_url": "https://games.crazygames.com/en_US/my-perfect-farm/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Magnet Balls: Addictive",
-      "url": "https://www.crazygames.com/game/magnet-balls-addictive-zps",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/magnet-balls-addictive-zps_16x9/20260408080706/magnet-balls-addictive-zps_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Welcome to \"Magnet Balls: Addictive\".",
-      "embed_url": "https://games.crazygames.com/en_US/magnet-balls-addictive-zps/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Sticky Orbit",
-      "url": "https://www.crazygames.com/game/sticky-orbit",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/sticky-orbit_16x9/20260501072908/sticky-orbit_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Sticky Orbit is a fast-paced physics arcade game where you leap between the gravity fields of rotating planets. Time your jumps perfectly to maintain momentum and build massive combos.",
-      "embed_url": "https://games.crazygames.com/en_US/sticky-orbit/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Ring Restaurant",
-      "url": "https://www.crazygames.com/game/ring-restaurant",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/ring-restaurant_16x9/20260327062301/ring-restaurant_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Ring Restaurant is a casual arcade game where you run your own restaurant using a unique rotating circle cooking system. Manage your kitchen efficiently as ingredients and tools move around, requiring",
-      "embed_url": "https://games.crazygames.com/en_US/ring-restaurant/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "Run and Jump for Brainrot",
-      "url": "https://www.crazygames.com/game/run-and-jump-for-brainrot",
-      "source": "CrazyGames",
-      "score": 60,
-      "image": "https://imgs.crazygames.com/run-and-jump-for-brainrot_16x9/20260330104142/run-and-jump-for-brainrot_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Run and Jump for Brainrot is a fast-paced game where your goal is to collect Brainrot memes and grow stronger.Jump across platforms to gather Brainrot, bring it back to your base, and power up. Level ",
-      "embed_url": "https://games.crazygames.com/en_US/run-and-jump-for-brainrot/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "embed_url": "https://games.poki.com/458768/f9151e25-075e-4952-ab29-685372b84be6?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/crazy-merge&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=7,72,1141,1155,1206&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 65
     },
     {
       "title": "GoBattle 2",
       "url": "https://poki.com/en/g/gobattle2",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/c6072a590069bb5591c46d7bb932be8b/gobattle2-logo.png",
       "description": "GoBattle 2 combines mini-games with physics-based sports. It features quirky 2D characters competing in soccer, sumo wrestling, and boat racing. Score points and win! Play to become the ultimate champ",
-      "embed_url": "https://games.poki.com/458768/ba463d2c-b973-46c8-8e26-5ab208445054?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/gobattle2&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,74,750&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/ba463d2c-b973-46c8-8e26-5ab208445054?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/gobattle2&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,74,750&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Subway Surfers",
       "url": "https://poki.com/en/g/subway-surfers",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/6cb3646f9210326b80124e79d6b75192/subway-surfers-logo.png",
       "description": "Subway Surfers is an endless runner that challenges you to escape security. Dash between trains, dodge obstacles, and collect coins in a vibrant, stylized world. Use power-ups to boost your score. Sta",
-      "embed_url": "https://games.poki.com/5dd312fa-015f-11ea-ad56-9cb6d0d995f7?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/subway-surfers&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,4,6,9,86,93,96,103,228,903,929,1103,1126,1140,1185,1190,1193&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/5dd312fa-015f-11ea-ad56-9cb6d0d995f7?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/subway-surfers&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,4,6,9,86,93,96,103,228,903,929,1103,1126,1140,1185,1190,1193&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
+    },
+    {
+      "title": "Combat Online 2",
+      "url": "https://poki.com/en/g/combat-online-2",
+      "source": "Poki",
+      "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/8173955448d8681bbebb8908a503de88/combat-online-2-logo.jfif",
+      "description": "Combat Online 2 lets you engage in first-person shooter action. Experience diverse maps, weapon customization, and intense firefights. Drive vehicles and complete parkour challenges. Gear up and domin",
+      "embed_url": "https://games.poki.com/458768/64208ded-5350-4533-afec-3a061af0b9bf?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/combat-online-2&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=9,76,77,385,929,1136,1140,1164,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Stickman Hook",
       "url": "https://poki.com/en/g/stickman-hook",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/99e090d154caf30f3625df7e456d5984/stickman-hook-logo.png",
       "description": "Stickman Hook lets you swing through levels in this arcade game! Use your hook to grab anchor points. The goal is to navigate obstacles with physics-based swinging. Master the momentum! Play skillfull",
-      "embed_url": "https://games.poki.com/458768/stickmanhook?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/stickman-hook&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,3,4,9,37,76,927,929,1103,1120,1126,1140,1190,1193&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/stickmanhook?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/stickman-hook&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,3,4,9,37,76,927,929,1103,1120,1126,1140,1190,1193&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Blocky Blast Puzzle",
       "url": "https://poki.com/en/g/blocky-blast-puzzle",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/291aaf2dcf5c1322558a9c038b3c5251/blocky-blast-puzzle-logo.png",
       "description": "Blocky Blast Puzzle combines block-fitting puzzle action with vibrant colors! Match blocks to clear lines in this strategic game. Enjoy satisfying animations and colorful gems. Plan your moves and bla",
-      "embed_url": "https://games.poki.com/458768/68808795-016c-435b-a275-06b86a4c9353?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/blocky-blast-puzzle&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,7,9,13,37,72,103,400,832,852,929,1126,1140,1187,1190,1193&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/68808795-016c-435b-a275-06b86a4c9353?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/blocky-blast-puzzle&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,7,9,13,37,72,103,400,832,852,929,1126,1140,1187,1190,1193&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Cozyville - Find Hidden Objects",
       "url": "https://poki.com/en/g/cozyville-find-hidden-objects",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/5fa6fc5d344d678c31cc356b6f05f637/cozyville-find-hidden-objects-logo.png",
       "description": "Play Cozyville - Find Hidden Objects on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/558dc998-de14-41fc-9d4c-ddce242cb5e5?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/cozyville-find-hidden-objects&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=16,37,67,72,400,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/558dc998-de14-41fc-9d4c-ddce242cb5e5?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/cozyville-find-hidden-objects&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=16,37,67,72,400,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Guns Guns Guns",
       "url": "https://poki.com/en/g/guns-guns-guns",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/70948c705d9f7443ed90498d6ac5bc50/guns-guns-guns-logo.png",
       "description": "Play Guns Guns Guns on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/8440add7-d2ba-4096-a958-6c6bfe720434?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/guns-guns-guns&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=77,385,903,933,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/8440add7-d2ba-4096-a958-6c6bfe720434?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/guns-guns-guns&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=77,385,903,933,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "World of Yarn",
       "url": "https://poki.com/en/g/world-of-yarn",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/693baf6fca4700ab8945fdf9515fdd0a/world-of-yarn-logo.png",
       "description": "Play World of Yarn on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/b1dd51d2-0a6a-4bc0-a319-bd63fea07fa2?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/world-of-yarn&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=7,72,93,832,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/b1dd51d2-0a6a-4bc0-a319-bd63fea07fa2?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/world-of-yarn&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=7,72,93,832,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Supercar Legends",
       "url": "https://poki.com/en/g/supercar-legends",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/c33fa755c4598986fa327a593b47cab4/supercar-legends-logo.png",
       "description": "Play Supercar Legends on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/79bd041a-c68d-4987-8884-702425c1cc3f?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/supercar-legends&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=37,78,93,933,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/79bd041a-c68d-4987-8884-702425c1cc3f?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/supercar-legends&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=37,78,93,933,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Carnado Bike Stunt",
       "url": "https://poki.com/en/g/carnado-bike-stunt",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/06a7f76db8c7319d3107b4fc222f5cab/carnado-bike-stunt-logo.jfif",
       "description": "Play Carnado Bike Stunt on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/0c1ad302-679a-4784-adbd-20efa08db435?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/carnado-bike-stunt&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,51,93,893,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/0c1ad302-679a-4784-adbd-20efa08db435?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/carnado-bike-stunt&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,51,93,893,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Snacky Snake",
       "url": "https://poki.com/en/g/snacky-snake",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/164e48d0577fecc9097acc1ce8d36752/snacky-snake-logo.png",
       "description": "Play Snacky Snake on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/c81d1c5f-eabf-4216-a4b3-1bf07eb89dfc?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/snacky-snake&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=6,53,64,93,839,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/c81d1c5f-eabf-4216-a4b3-1bf07eb89dfc?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/snacky-snake&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=6,53,64,93,839,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Wheel Master",
       "url": "https://poki.com/en/g/wheel-master",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/2fab9bcc788f45acbd1c95d44c10fbf7/wheel-master-logo.png",
       "description": "Play Wheel Master on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/aae09709-2122-4dac-aee7-7188b690229d?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/wheel-master&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=9,48,51,103,738,1013,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/aae09709-2122-4dac-aee7-7188b690229d?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/wheel-master&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=9,48,51,103,738,1013,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Astro Rancher",
       "url": "https://poki.com/en/g/astro-rancher",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/61c48143ea37ff32628385e826f3da69/astro-rancher-logo.png",
       "description": "Play Astro Rancher on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/eca6e0eb-7732-4bde-8d77-ad5a213ba09c?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/astro-rancher&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=69,91,118,1014,1122,1141,1169,1171,1187&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/eca6e0eb-7732-4bde-8d77-ad5a213ba09c?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/astro-rancher&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=69,91,118,1014,1122,1141,1169,1171,1187&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "DIY Desk Designer",
       "url": "https://poki.com/en/g/diy-desk-designer",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/02187aa168427a18b8a279966c7b7b3e/diy-desk-designer-logo.jfif",
       "description": "Play DIY Desk Designer on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/214408a6-e296-4a68-878e-664debe450a0?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/diy-desk-designer&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,20,93,1141,1187&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/214408a6-e296-4a68-878e-664debe450a0?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/diy-desk-designer&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,20,93,1141,1187&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Lips Diy Master",
       "url": "https://poki.com/en/g/lips-diy-master",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/0a8debd6e8a8b8a01efa66baef369894/lips-diy-master-logo.png",
       "description": "Play Lips Diy Master on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/0c5d703a-d659-4a12-bea4-3e29c378662f?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/lips-diy-master&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,29,44,85,94,201,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/0c5d703a-d659-4a12-bea4-3e29c378662f?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/lips-diy-master&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,29,44,85,94,201,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Blast Buddies",
       "url": "https://poki.com/en/g/blast-buddies",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/5b6d92a1a944c4ff54814a1e2f6800cc/blast-buddies-logo.jfif",
       "description": "Play Blast Buddies on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/d2833d23-c460-4bbc-b898-2763fa477b1f?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/blast-buddies&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,76,77,385,1141,1164&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/d2833d23-c460-4bbc-b898-2763fa477b1f?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/blast-buddies&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,76,77,385,1141,1164&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Going Up Rooftop",
       "url": "https://poki.com/en/g/going-up-rooftop",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/5633aed8843740ce4884f940d70d9e1e/going-up-rooftop-logo.jfif",
       "description": "Play Going Up Rooftop on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/7408b94a-876b-4c32-932e-dc3ba61e7e70?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/going-up-rooftop&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=48,93,885,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/7408b94a-876b-4c32-932e-dc3ba61e7e70?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/going-up-rooftop&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=48,93,885,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Rail in the Air",
       "url": "https://poki.com/en/g/rail-in-the-air",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/0ac52582b500eefc23b6df0e0d35cfe8/rail-in-the-air-logo.png",
       "description": "Play Rail in the Air on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/97d4060b-757a-4759-9bdb-2c06e9915d6e?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/rail-in-the-air&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=91,93,893,1141,1185&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/97d4060b-757a-4759-9bdb-2c06e9915d6e?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/rail-in-the-air&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=91,93,893,1141,1185&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Soccer Skills 2 World Cup",
       "url": "https://poki.com/en/g/soccer-skills-2-world-cup",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/6b27f703d619014b37c7895f50f963d9/soccer-skills-2-world-cup-logo.png",
       "description": "Play Soccer Skills 2 World Cup on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/d379fb71-6792-4e6e-921f-8eeeecc2c826?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/soccer-skills-2-world-cup&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,27,76,93,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/d379fb71-6792-4e6e-921f-8eeeecc2c826?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/soccer-skills-2-world-cup&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,27,76,93,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Dino Fighter",
       "url": "https://poki.com/en/g/dino-fighter",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/48093d951b2c9a80777c7cc81b9bc817/dino-fighter-logo.png",
       "description": "Play Dino Fighter on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/67b01dd0-9681-4e8a-8199-3e6c728cc437?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/dino-fighter&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,69,91,389,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/67b01dd0-9681-4e8a-8199-3e6c728cc437?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/dino-fighter&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,69,91,389,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Cleanup Crew",
       "url": "https://poki.com/en/g/cleanup-crew",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/63d0fd7c49484667ca6df9e0c311ee3d/cleanup-crew-logo.png",
       "description": "Play Cleanup Crew on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/e4e14733-d145-4702-9c3f-b387c610d3eb?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/cleanup-crew&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=69,91,1141,1187,1196&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/e4e14733-d145-4702-9c3f-b387c610d3eb?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/cleanup-crew&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=69,91,1141,1187,1196&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Pixel Perfect",
       "url": "https://poki.com/en/g/pixel-perfect",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/7d9df96736fe886c274d0fd5e05bfbe0/pixel-perfect-logo.png",
       "description": "Play Pixel Perfect on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/f20f10f2-96cc-4466-a9ba-75e58e518ab6?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/pixel-perfect&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=34,72,1141,1165,1171&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/f20f10f2-96cc-4466-a9ba-75e58e518ab6?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/pixel-perfect&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=34,72,1141,1165,1171&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Tricky Witch",
       "url": "https://poki.com/en/g/tricky-witch",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/5834f3f9f500b7e3692aa2f324f5ef96/tricky-witch-logo.png",
       "description": "Play Tricky Witch on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/5aa498a7-3563-47bf-8140-25a64ee47a52?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/tricky-witch&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=9,48,72,103,972,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/5aa498a7-3563-47bf-8140-25a64ee47a52?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/tricky-witch&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=9,48,72,103,972,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "KPop Concert Dress Up",
       "url": "https://poki.com/en/g/kpop-concert-dress-up",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/c779e80f4ffbc84a0fb058f050746036/kpop-concert-dress-up-logo.png",
       "description": "Play KPop Concert Dress Up on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/474f54a1-3566-4fea-aa53-3f7c905f1d43?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/kpop-concert-dress-up&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,29,85,94,905,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/474f54a1-3566-4fea-aa53-3f7c905f1d43?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/kpop-concert-dress-up&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,29,85,94,905,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Real City Bikes",
       "url": "https://poki.com/en/g/real-city-bikes",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/91c37f4eb18b7ae4cfa2fe4db473a463/real-city-bikes-logo.jfif",
       "description": "Play Real City Bikes on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/9a3b67c5-79f2-4bfb-83dc-c8f26caf4025?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/real-city-bikes&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,51,93,893,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/9a3b67c5-79f2-4bfb-83dc-c8f26caf4025?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/real-city-bikes&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,51,93,893,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Knockout Penguins",
       "url": "https://poki.com/en/g/knockout-penguins",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/eb9e98a9200d81f55ed1808b2e2eec75/knockout-penguins-logo.png",
       "description": "Play Knockout Penguins on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/9faff480-139a-4227-b19c-2f90bc04e858?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/knockout-penguins&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,64,76,1013,1141,1209&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/9faff480-139a-4227-b19c-2f90bc04e858?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/knockout-penguins&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,64,76,1013,1141,1209&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Freaky Clown Town Mystery",
       "url": "https://poki.com/en/g/freaky-clown-town-mystery",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/77faba21499226e1d7d8bd3616790060/freaky-clown-town-mystery-logo.png",
       "description": "Play Freaky Clown Town Mystery on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/a53d31af-cc71-4414-9182-99bb17a91e02?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/freaky-clown-town-mystery&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,6,72,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/a53d31af-cc71-4414-9182-99bb17a91e02?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/freaky-clown-town-mystery&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,6,72,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Skill Knight",
       "url": "https://poki.com/en/g/skill-knight",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/8c84acaa3969df2a17608b3553999313/skill-knight-logo.png",
       "description": "Play Skill Knight on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/e4877aee-cceb-47eb-b8de-041e4cd3e672?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/skill-knight&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=6,61,91,1122,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/e4877aee-cceb-47eb-b8de-041e4cd3e672?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/skill-knight&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=6,61,91,1122,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Wreck The Robot",
       "url": "https://poki.com/en/g/wreck-the-robot",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/a02b2d3c0c8538d5e10665af238d50b6/wreck-the-robot-logo.png",
       "description": "Play Wreck The Robot on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/7c73c1d9-657b-4057-a2c4-1e4b011d7c64?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/wreck-the-robot&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=37,49,99,1013,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/7c73c1d9-657b-4057-a2c4-1e4b011d7c64?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/wreck-the-robot&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=37,49,99,1013,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Tictoc Catwalk Fashion",
       "url": "https://poki.com/en/g/tictoc-catwalk-fashion",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/7bebb672fe7c9f0ff8c0304f4e97c61b/tictoc-catwalk-fashion-logo.png",
       "description": "Play Tictoc Catwalk Fashion on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/917a7c19-1eec-4683-8aec-8b9e53e9984b?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/tictoc-catwalk-fashion&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,29,44,94,201,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/917a7c19-1eec-4683-8aec-8b9e53e9984b?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/tictoc-catwalk-fashion&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,29,44,94,201,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Tuning Car Racing",
       "url": "https://poki.com/en/g/tuning-car-racing",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/2fbf7c68874281a2890e8e11e0bc254b/tuning-car-racing-logo.png",
       "description": "Play Tuning Car Racing on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/dc131c08-868e-4a2f-b4fb-9f26e6b7408a?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/tuning-car-racing&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,78,93,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/dc131c08-868e-4a2f-b4fb-9f26e6b7408a?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/tuning-car-racing&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,78,93,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Alien Raid Monster Evolution",
       "url": "https://poki.com/en/g/alien-raid-monster-evolution",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/733d8a72cf5e8b260c2bd91bb2b68c84/alien-raid-monster-evolution-logo.png",
       "description": "Play Alien Raid Monster Evolution on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/944fe7b1-3921-443e-89a6-422dbe7c0c8e?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/alien-raid-monster-evolution&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,6,91,93,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/944fe7b1-3921-443e-89a6-422dbe7c0c8e?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/alien-raid-monster-evolution&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,6,91,93,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
       "title": "Flat Baseball",
       "url": "https://poki.com/en/g/flat-baseball",
       "source": "Poki",
-      "score": 60,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/ba1f466a3aa641d5bfd3dc2c72e1de46/flat-baseball-logo.png",
       "description": "Play Flat Baseball on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/f8f24add-f54c-41d1-bf60-4eea38790aaa?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/flat-baseball&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,129,775,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/f8f24add-f54c-41d1-bf60-4eea38790aaa?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/flat-baseball&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,129,775,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 60
     },
     {
-      "title": "HU-HA",
-      "url": "",
-      "source": "itch.io",
-      "score": 50
+      "title": "Jumper's Quest Online",
+      "url": "https://www.onlinegames.io/jumpers-quest/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1288/jumpers-quest.webp",
+      "description": "Jump the blue cube, overcome diverse obstacles, and reach the top by dodging dangers in Jumper’s Quest, an exciting puzzle game by Halfbrick!",
+      "embed_url": "https://html5.gamedistribution.com/f0f4d71949e347249950f163cfb40d4b/",
+      "score": 60
     },
     {
-      "title": "rolool",
-      "url": "",
-      "source": "itch.io",
-      "score": 50
+      "title": "Two RX7 Drifters Online",
+      "url": "https://www.onlinegames.io/two-rx7-drifters/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1287/two-rx7-drifters.webp",
+      "description": "Steer the wheels of RX7, and perform the longest drifts with your friend in Two RX7 Drifters, a 3D drifting game with a 2-player option!",
+      "embed_url": "https://html5.gamedistribution.com/f85eee6b515c4aecb0ef6c6563d05e39/",
+      "score": 60
     },
     {
-      "title": "Biotology",
-      "url": "",
-      "source": "itch.io",
-      "score": 50
+      "title": "Slingshot Fortress Online",
+      "url": "https://www.onlinegames.io/slingshot-fortress/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1279/slingshot-fortress.webp",
+      "description": "Grab your slingshot, aim precisely, and collapse all the towers in Slingshot Fortress, an online puzzle game inspired by Angry Birds!",
+      "embed_url": "https://html5.gamedistribution.com/ecc90172a5a8427b85f6b1b75e5306e7/",
+      "score": 60
     },
     {
-      "title": "ropeburn",
-      "url": "",
-      "source": "itch.io",
-      "score": 50
+      "title": "Push IO Online",
+      "url": "https://www.onlinegames.io/push-io/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1281/push-io.webp",
+      "description": "Wield your boomerang and knock rivals into the water to become the ultimate arena champion in Push IO, a multiplayer battle game!",
+      "embed_url": "https://html5.gamedistribution.com/4888156f33814739a696e11b32556159/",
+      "score": 60
     },
     {
-      "title": "CalcCrawler",
-      "url": "",
-      "source": "itch.io",
-      "score": 50
+      "title": "Brainrots Lava Survive Online Online",
+      "url": "https://www.onlinegames.io/brainrots-lava-survive-online/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1284/brainrots-lava-survive-online.webp",
+      "description": "Try to collect the precious Italian Brainrots in your base by dodging lava in Brainrots Lava Survive Online, an online Italian Brainrot game!",
+      "embed_url": "https://html5.gamedistribution.com/f455a9cabb9248e4ab807672ee11f05f/",
+      "score": 60
     },
     {
-      "title": "​血華の系譜",
-      "url": "",
-      "source": "itch.io",
-      "score": 50
+      "title": "Jump Master Online",
+      "url": "https://www.onlinegames.io/jump-master/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1285/jump-master.webp",
+      "description": "Jump the chess piece and make it land on the blocks in Jump Master, an arcade game. Try taking the furthest distance possible!",
+      "embed_url": "https://html5.gamedistribution.com/e0250be9a0ff4355a9dccf3716128597/",
+      "score": 60
     },
     {
-      "title": "Pokétone",
-      "url": "",
-      "source": "itch.io",
-      "score": 50
+      "title": "i8 City Driver Online",
+      "url": "https://www.onlinegames.io/i8-city-driver/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1286/i8-city-driver.webp",
+      "description": "Leisurely drive your BMW i8-like car in the neon-lit city streets, or accept diverse challenges in i8 City Driver, a browser-friendly driving game!",
+      "embed_url": "https://html5.gamedistribution.com/f6acd919192c441c9aca2d20a18e04c6/",
+      "score": 60
     },
     {
-      "title": "Sci-Fi 2600",
-      "url": "",
-      "source": "itch.io",
-      "score": 50
+      "title": "Escape from the Portal Online",
+      "url": "https://www.onlinegames.io/escape-from-the-portal/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1283/escape-from-the-portal.webp",
+      "description": "Explore the gloomy catacombs and find a way to activate the ancient portal to free your trapped soul in Escape from the Portal, a horror game!",
+      "embed_url": "https://html5.gamedistribution.com/c323e23d0c7949c0b8ed4e1b55495f25/",
+      "score": 60
     },
     {
-      "title": "Hangman",
-      "url": "https://www.crazygames.com/game/hangman-cfc",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/hangman-cfc_16x9/20260519090049/hangman-cfc_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Hangman is a puzzle word game that keeps you on your toes. Gameplay is simple:",
-      "embed_url": "https://games.crazygames.com/en_US/hangman-cfc/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Bloxd io Play Online",
+      "url": "https://www.onlinegames.io/bloxd-io/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/722/Bloxd-io-Play.jpg",
+      "description": "Welcome to Bloxd io, an ultimate online Minecraft game with diverse modes. Whether you're interested in a peaceful building session or intense PvP battles, you will find what you expect from Bloxd io.",
+      "embed_url": "https://bloxd.io/",
+      "score": 60
     },
     {
-      "title": "Arrows",
-      "url": "https://www.crazygames.com/game/arrows-bmj",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/arrows-bmj_16x9/20260514070410/arrows-bmj_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Arrows is a logic puzzle game where direction and precise calculation decide everything.The field is filled with curved arrows. Tap an arrow to launch it —",
-      "embed_url": "https://games.crazygames.com/en_US/arrows-bmj/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Geometry Arow 2 Game",
+      "url": "https://www.onlinegames.io/geometry-arrow-2/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1070/Geometry-Arrow-2.webp",
+      "description": "Guide your arrow and ball through a shifting tunnel of cubes and triangles. Dodge obstacles, master portals, and conquer every level!",
+      "embed_url": "https://html5.gamedistribution.com/93ec13ded90f4ef8b46b91f7654945cd/",
+      "score": 60
     },
     {
-      "title": "Basket Cats",
-      "url": "https://www.crazygames.com/game/basket-cats",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/basket-cats_16x9/20260410073912/basket-cats_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Play a classic basketball game with pixel cat characters and fun mechanics. Defeat different opponents with a single button and aim for high scores.Jump and shoot the ball with just one button.",
-      "embed_url": "https://games.crazygames.com/en_US/basket-cats/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Love Tester Play For Free",
+      "url": "https://www.onlinegames.io/love-tester/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/152/love-tester.jpg",
+      "description": "Do you want to know how much your crush falls for you? Here is a way to test the love…",
+      "embed_url": "https://www.onlinegames.io/games/2021/3/love-tester/index.html",
+      "score": 60
     },
     {
-      "title": "Capy Cafe",
-      "url": "https://www.crazygames.com/game/capy-cafe",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/capy-cafe_16x9/20260519024536/capy-cafe_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Run the jungle's coziest café as an adorable capybara! Harvest fruits, brew teas, mix fresh juices, and serve a cheerful crowd of animal visitors.",
-      "embed_url": "https://games.crazygames.com/en_US/capy-cafe/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Drift Hunters 2 Online Game",
+      "url": "https://www.onlinegames.io/drift-hunters-2/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/669/Drift-Hunters-2-Online.jpg",
+      "description": "Drift Hunters 2 is a web-based driving game with premium 3D graphics and realistic physics. Play now on OnlineGames.io!",
+      "embed_url": "https://www.onlinegames.io/games/2024/unity/drift-hunters-2/index.html",
+      "score": 60
     },
     {
-      "title": "Farm Drones",
-      "url": "https://www.crazygames.com/game/farm-drones",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/farm-drones_16x9/20260514102830/farm-drones_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Farm Drones is a relaxing idle farming game with drones.Grow plants, upgrade garden beds, and expand your farm step by step. Buy drones to harvest crops automatically, unlock a watering drone to help ",
-      "embed_url": "https://games.crazygames.com/en_US/farm-drones/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Basketball Stars 2026 Online",
+      "url": "https://www.onlinegames.io/basketball-stars-2026/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1171/basketball-stars-2026.webp",
+      "description": "Engage in matches and perform mega dunks to outscore your opponent on the court in Basketball Stars 2026, an online basketball game with its 2-player option.",
+      "embed_url": "https://html5.gamedistribution.com/516d6908fbc848bdb89e65a58a43a7dc/",
+      "score": 60
     },
     {
-      "title": "Ball Roll",
-      "url": "https://www.crazygames.com/game/ball-roll-bbr",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/ball-roll-bbr_16x9/20260409062921/ball-roll-bbr_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Slide the wooden blocks to clear a path and guide the ball to the goal. Collect stars to master each level!",
-      "embed_url": "https://games.crazygames.com/en_US/ball-roll-bbr/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Rooftop Run Online",
+      "url": "https://www.onlinegames.io/rooftop-run/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1137/rooftop-run.webp",
+      "description": "Jump from one roof to another in Rooftop Run, a thrilling running game with its 3D graphics. Feel the adrenaline in your bones while diving into offices!",
+      "embed_url": "https://html5.gamedistribution.com/cee36dd2c4f34d5797921a49bb1d4b83/",
+      "score": 60
     },
     {
-      "title": "Blast Miner",
-      "url": "https://www.crazygames.com/game/blast-miner",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/blast-miner_16x9/20260519052344/blast-miner_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Blast and drill your way to the core of the planet.Use your rocket launcher and drill to mine ores, earn money, and upgrade your equipment to reach even greater depths. Collect stars in the planet’s c",
-      "embed_url": "https://games.crazygames.com/en_US/blast-miner/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Traffic Jam 3D Online Game",
+      "url": "https://www.onlinegames.io/traffic-jam-3d/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/784/Traffic-Jam.jpg",
+      "description": "Steer your car on the highway at full speed without crashing any other vehicle in Traffic Jam 3D, a driving in traffic game. Set your racing scenario as you wish!",
+      "embed_url": "https://html5.gamedistribution.com/337302b23b5943d8bcfc501d81d50cdb/",
+      "score": 60
     },
     {
-      "title": "Zen Mower",
-      "url": "https://www.crazygames.com/game/zen-mower",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/zen-mower_16x9/20260513041321/zen-mower_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Relax into a satisfying grass-cutting experience.Drive your mower through a beautiful low-poly field, clear every patch of grass, and watch the world transform as you travel through Summer, Sunset, Wi",
-      "embed_url": "https://games.crazygames.com/en_US/zen-mower/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Golf Orbit Online Game",
+      "url": "https://www.onlinegames.io/golf-orbit/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/953/Golf-Orbit-Play-Online.jpg",
+      "description": "Play Golf Orbit online for free! Time your shots perfectly, launch the ball far, and upgrade your golfer to reach new distances.",
+      "embed_url": "https://html5.gamedistribution.com/02ff01e6e9f7451ba28d889a2a55eec9/",
+      "score": 60
     },
     {
-      "title": "Chaos Arena",
-      "url": "https://www.crazygames.com/game/chaos-arena",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/chaos-arena_16x9/20260508031612/chaos-arena_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Pull. Launch.",
-      "embed_url": "https://games.crazygames.com/en_US/chaos-arena/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Pixel Path Free Online Game",
+      "url": "https://www.onlinegames.io/pixel-path/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1050/pixel_path_game.webp",
+      "description": "Guide your pixel hero through 50 tricky levels filled with traps, surprises, and evolving mechanics in this fast-paced retro platformer.",
+      "embed_url": "https://html5.gamedistribution.com/3ffc5c0944f54f06afb212ca7d80bb00/",
+      "score": 60
     },
     {
-      "title": "Pikto.fun",
-      "url": "https://www.crazygames.com/game/pikto-fun",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/pikto-fun_16x9/20260506072555/pikto-fun_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Can you draw a cat in 60 seconds? Can your friends guess it?pikto.fun is a fast-paced, real-time multiplayer drawing and guessing game that brings the fun of Pictionary straight to your browser.",
-      "embed_url": "https://games.crazygames.com/en_US/pikto-fun/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "FamiDash Online",
+      "url": "https://www.onlinegames.io/famidash/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1275/famidash.webp",
+      "description": "Jump over spikes and obstacles and try to reach the finish point without crashing in FamiDash, a rhythm-based platformer inspired by Geometry Dash!",
+      "embed_url": "https://cloud.onlinegames.io/games/2026/em/famidash/index.html",
+      "score": 60
     },
     {
-      "title": "Mad Pursuit",
-      "url": "https://www.crazygames.com/game/mad-pursuit-zhp",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/mad-pursuit-zhp_16x9/20260407023355/mad-pursuit-zhp_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Mad Pursuit throws you into a neon-lit city where survival depends on speed, nitro, and sharp driving instincts. Take the wheel of powerful cars while relentless police forces chase you through intens",
-      "embed_url": "https://games.crazygames.com/en_US/mad-pursuit-zhp/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Skribblio Play For Free",
+      "url": "https://www.onlinegames.io/skribblio/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/385/Skribblio.jpg",
+      "description": "Scribble, scribble, scribble!✍✍✍Skribblio is a great online game for word game lovers with extensive drawing skills. Draw the given word,…",
+      "embed_url": "https://skribbl.io/",
+      "score": 60
     },
     {
-      "title": "Hivebound",
-      "url": "https://www.crazygames.com/game/hivebound",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/hivebound_16x9/20260518051448/hivebound_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Hivebound is a 2D top-down idle strategy game where you build and manage a thriving insect colony. Command unique hive producers, from the industrious Worker Ant to the Silk Weaver Beetle and Heavy Ca",
-      "embed_url": "https://games.crazygames.com/en_US/hivebound/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Paper io 2 Play For Free",
+      "url": "https://www.onlinegames.io/paper-io-2/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/395/Paper-io-2-Online.jpg",
+      "description": "Welcome to the colorful world of Paper io 2! Paper io 2 is a free online game where you have…",
+      "embed_url": "https://html5.gamedistribution.com/rvvASMiM/c5d4966b176246748d6c847103ebfd51/",
+      "score": 60
     },
     {
-      "title": "Ice Slide",
-      "url": "https://www.crazygames.com/game/ice-slide",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/ice-slide_16x9/20260422141154/ice-slide_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Ice Slide is a super satisfying sliding puzzle game where you control a cute ice cream character across a frozen grid. Your goal is simple —",
-      "embed_url": "https://games.crazygames.com/en_US/ice-slide/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Paper Doll Diary: Dress Up DIY Online",
+      "url": "https://www.onlinegames.io/paper-doll-diary-dress-up-diy/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1271/paper-doll-diary-dress-up-diy.webp",
+      "description": "Experience the life of a paper doll, get her ready for diverse occasions, and make sure that the spotlights shine on her in Paper Doll Diary: Dress Up DIY!",
+      "embed_url": "https://html5.gamedistribution.com/6fcaa70b796547a698ddd10808527345/",
+      "score": 60
     },
     {
-      "title": "Donut Place",
-      "url": "https://www.crazygames.com/game/donut-place",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/donut-place_16x9/20260504075051/donut-place_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Donut Place is a fun simulation game where you take on the role of an owner and head baker tasked with building a sweet shop.You start with a small donut stand and work to expand it into a top destina",
-      "embed_url": "https://games.crazygames.com/en_US/donut-place/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Hunter Underwater Spearfishing Online",
+      "url": "https://www.onlinegames.io/hunter-underwater-spearfishing/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1277/hunter-underwater-spearfishing.webp",
+      "description": "Grab your speargun and dive into the ocean to hunt rare marine animals in Hunter Underwater Spearfishing, a browser-friendly simulator game!",
+      "embed_url": "https://html5.gamedistribution.com/37080f0a91924d12b91ef072e965497f/",
+      "score": 60
     },
     {
-      "title": "Trash Flow",
-      "url": "https://www.crazygames.com/game/trash-flow",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/trash-flow_16x9/20260421040214/trash-flow_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Trash Flow is a simple yet addictive game where you collect trash, earn points, and upgrade your abilities.Navigate your vacuum through a field of debris, managing your limited battery life while unlo",
-      "embed_url": "https://games.crazygames.com/en_US/trash-flow/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Drift King Online",
+      "url": "https://www.onlinegames.io/drift-king/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/729/Drift-King.jpg",
+      "description": "Race with each other, make drifting competitions or chase after each other to experience crashes and chaos. in Drift King, free online game!",
+      "embed_url": "https://www.onlinegames.io/games/2024/unity/drift-king/index.html",
+      "score": 60
     },
     {
-      "title": "Lucky Block",
-      "url": "https://www.crazygames.com/game/lucky-block-ova",
-      "source": "CrazyGames",
-      "score": 50,
-      "image": "https://imgs.crazygames.com/lucky-block-ova_16x9/20260408090230/lucky-block-ova_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Become a lucky block and start your run in a safe zone as a normal character. Make your way across the map toward the finish line while avoiding danger.Enter the enemy zone, and you will transform int",
-      "embed_url": "https://games.crazygames.com/en_US/lucky-block-ova/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "title": "Magic Tiles 3 Online",
+      "url": "https://www.onlinegames.io/magic-tiles-3/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1117/magic-tiles-3.webp",
+      "description": "Magic Tiles 3 is an immersive rhythm-based music game. Sit down at the piano and start playing your favorite songs now!",
+      "embed_url": "https://html5.gamedistribution.com/58deefb8f63943dcbc5093070b9b5777/",
+      "score": 60
     },
     {
-      "title": "Ludo King",
-      "url": "https://poki.com/en/g/ludo-king",
-      "source": "Poki",
-      "score": 50,
-      "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/50f2a0b546ff3966ed27fb28ee7fb226/ludo-king-logo.png",
-      "description": "Ludo King lets you enjoy a classic board game! Roll the dice, move your pieces strategically, and aim to get all your tokens home first. Experience vibrant visuals and tactical gameplay. Outmaneuver y",
-      "embed_url": "https://games.poki.com/458768/15c83c8c-804f-4189-8d59-a7ba693260ed?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/ludo-king&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=7,8,76,832,852,1141,1190,1201&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "title": "Obby Highest Jump Ever Online",
+      "url": "https://www.onlinegames.io/obby-highest-jump-ever/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1276/obby-highest-jump-ever.webp",
+      "description": "Train in the GYM Area and climb up the towers to get trophies in Obby Highest Jump Ever, a Roblox-inspired clicker game!",
+      "embed_url": "https://html5.gamedistribution.com/eece738ce7be411cba9b6e333f1ec96f/",
+      "score": 60
+    },
+    {
+      "title": "Highway Traffic Online",
+      "url": "https://www.onlinegames.io/highway-traffic/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/32/Highway-Traffic-2.jpg",
+      "description": "Highway Traffic game is centered around driving down the highway, dodging other cars, and avoiding accidents. It gets tricky because other…",
+      "embed_url": "https://www.onlinegames.io/games/2022/unity/highway-traffic/index.html",
+      "score": 60
+    },
+    {
+      "title": "Papa's Donuteria Game",
+      "url": "https://www.onlinegames.io/papas-donuteria/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1067/papas-donuteria.webp",
+      "description": "Cook and serve donuts in Papa’s Donuteria! Unlock ingredients, please picky eaters, and build the sweetest shop in the amusement park.",
+      "embed_url": "https://cloud.onlinegames.io/games/2024/flash/papas-donuteria/index-og.html",
+      "score": 60
+    },
+    {
+      "title": "Idol Livestream Doll Dress Up Online",
+      "url": "https://www.onlinegames.io/idol-livestream-doll-dress-up/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1127/idol-livestream-doll-dress-up.webp",
+      "description": "Prepare your doll for the competitive fashion contests and livestream shows to gain followers in Idol Livestream: Doll Dress Up, an online fashion game!",
+      "embed_url": "https://html5.gamedistribution.com/fab4ba7adaf04d8a92905989e85b55c7/",
+      "score": 60
+    },
+    {
+      "title": "FNAF Play Online",
+      "url": "https://www.onlinegames.io/five-nights-at-freddys/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/761/Play-FNAF-Online.jpg",
+      "description": "Monitor the security cameras from midnight to six in the morning as a security guard in FNAF, a 2D action game. Guard yourself from the animatronics!",
+      "embed_url": "https://www.onlinegames.io/games/2024/w1/five-nights-at-freddys/index.html",
+      "score": 60
+    },
+    {
+      "title": "FNAF 2 Play Online",
+      "url": "https://www.onlinegames.io/five-nights-at-freddys-2/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/771/FNaF-2.jpg",
+      "description": "Five Nights at Freddy's 2 (FNaF 2) is a popular horror game with a spooky environment and a thrilling narrative. If you have the courage for it, play it now for free on OnlineGames.io!",
+      "embed_url": "https://www.onlinegames.io/games/2024/w1/five-nights-at-freddys-2/index.html",
+      "score": 60
+    },
+    {
+      "title": "Velocity Rush Online",
+      "url": "https://www.onlinegames.io/velocity-rush/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/1265/velocity-rush.webp",
+      "description": "Take control of the golf ball, dodge obstacles coming your way, and reach the finish without dropping the ball in Velocity Rush, a fast-paced arcade game!",
+      "embed_url": "https://cloud.onlinegames.io/games/2026/unity/velocity-rush/game.html",
+      "score": 60
+    },
+    {
+      "title": "Stickman GTA City",
+      "url": "https://www.onlinegames.io/stickman-gta-city/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/900/stickman-gta-city-free.jpg",
+      "description": "Explore Stickman GTA City, an open-world game where you steal vehicles, evade police, and take on missions with stickman twist. Play now for free!",
+      "embed_url": "https://cloud.onlinegames.io/games/2024/unity3/stickman-gta-city/index-og.html",
+      "score": 60
+    },
+    {
+      "title": "CS Online Play Online",
+      "url": "https://www.onlinegames.io/cs-online/",
+      "source": "OnlineGames.io",
+      "image": "https://www.onlinegames.io/media/posts/434/CS-Online.jpg",
+      "description": "Everyone knows the famous Counter Strike game, 2000's online battle arena with online players. CS Online, inspired by Counter-Strike, is a…",
+      "embed_url": "https://www.onlinegames.io/games/2023/unity2/cs-online/index.html",
+      "score": 60
     },
     {
       "title": "Drive Mad",
       "url": "https://poki.com/en/g/drive-mad",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/ea355684d5805b1bf9646d961e74e49d/drive-mad-logo.png",
       "description": "Drive Mad tests your driving skills in this physics-based puzzle game! Navigate tricky obstacle courses with blocky monster trucks. Master loops and avoid crashes. Play skillfully!",
-      "embed_url": "https://games.poki.com/458768/f9564e4e-ef25-4e4b-ba67-cb11a1576bbd?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/drive-mad&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,76,78,93,96,103,377,390,893,929,1126,1139,1140,1177,1185,1190,1193&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/f9564e4e-ef25-4e4b-ba67-cb11a1576bbd?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/drive-mad&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,76,78,93,96,103,377,390,893,929,1126,1139,1140,1177,1185,1190,1193&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Drift Boss",
       "url": "https://poki.com/en/g/drift-boss",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/baf55f009fd63dd63c760a5dcfe79615/drift-boss-logo.png",
       "description": "Drift Boss is a driving game that tests your drifting skills on winding roads. Steer your car, collect coins, and master the art of controlled slides. Can you handle the curves? Play smart!",
-      "embed_url": "https://games.poki.com/458768/ce2cbe9a-de88-48c1-bc01-a82f7a8ea8ff?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/drift-boss&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,9,78,93,103,893,1178,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/ce2cbe9a-de88-48c1-bc01-a82f7a8ea8ff?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/drift-boss&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1,9,78,93,103,893,1178,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Retro Bowl",
       "url": "https://poki.com/en/g/retro-bowl",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/ee9ca3764ef4289a48a1ebf457ef605441ed1f35a0f2eb12707a70d609e53686/retro-bowl-logo.png",
       "description": "Retro Bowl puts you in control of a pixelated football franchise. Manage your roster, call plays, and lead your team to victory in this retro sports game. Draft wisely and play to win!",
-      "embed_url": "https://games.poki.com/458768/806e2242-df99-4dcd-b6ac-2c20175159a8?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/retro-bowl&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,69,775,854,929,1126,1140,1171,1190,1193&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/806e2242-df99-4dcd-b6ac-2c20175159a8?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/retro-bowl&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,69,775,854,929,1126,1140,1171,1190,1193&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Monkey Mart",
       "url": "https://poki.com/en/g/monkey-mart",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/93142510b4eb8a5b81fc264e31c00b88/monkey-mart-logo.png",
       "description": "Monkey Mart is a management game that puts you in charge of a supermarket run by a monkey. Harvest produce, stock shelves, and serve customers in a cute cartoon world. Expand your mart and optimize yo",
-      "embed_url": "https://games.poki.com/458768/1183520a-1ec4-4f33-a7ce-7673c60f912c?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/monkey-mart&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,52,64,69,91,96,103,118,414,839,929,1014,1126,1140,1187,1190,1193,1205&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/1183520a-1ec4-4f33-a7ce-7673c60f912c?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/monkey-mart&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,52,64,69,91,96,103,118,414,839,929,1014,1126,1140,1187,1190,1193,1205&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Level Devil",
       "url": "https://poki.com/en/g/level-devil",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/7e18b5cf7da58e6fc90144f747dcc949/level-devil-logo.png",
-      "description": "Level Devil tests your platforming skills in tricky levels filled with surprises. Dodge traps, navigate pixelated landscapes, and anticipate hidden dangers. Can you survive the devilish design?"
+      "description": "Level Devil tests your platforming skills in tricky levels filled with surprises. Dodge traps, navigate pixelated landscapes, and anticipate hidden dangers. Can you survive the devilish design?",
+      "embed_url": "https://games.poki.com/458768/13acae8c-ec6a-4823-b1a2-8ea20cea56e7?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/level-devil&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,6,7,9,48,76,96,103,228,400,750,832,885,903,929,1018,1103,1126,1139,1140,1171,1185,1190,1193,1201&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Bunny Miner",
       "url": "https://poki.com/en/g/bunny-miner",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/9fd0b463f20ddbb3031da68c0e4f5c9e/bunny-miner-logo.png",
       "description": "Play Bunny Miner on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/a29738cd-ebcd-4b4c-90a4-d27a210c1a0d?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/bunny-miner&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=6,64,91,1141,1187&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/a29738cd-ebcd-4b4c-90a4-d27a210c1a0d?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/bunny-miner&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=6,64,91,1141,1187&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Zombit",
       "url": "https://poki.com/en/g/zombit",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/00769d3a42986866a539d8bcf1ae305d/zombit-logo.png",
       "description": "Play Zombit on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/b72996f9-511d-410d-bd40-056da0d56d70?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/zombit&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,6,58,1018,1141,1171&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/b72996f9-511d-410d-bd40-056da0d56d70?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/zombit&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,6,58,1018,1141,1171&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Goal Gang",
       "url": "https://poki.com/en/g/goal-gang",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/9df804b6c56aa7b847d459bac689e41f/goal-gang-logo.png",
       "description": "Play Goal Gang on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/691a6182-1cee-4095-a39b-1fec2ba79e06?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/goal-gang&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,27,76,93,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/691a6182-1cee-4095-a39b-1fec2ba79e06?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/goal-gang&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,27,76,93,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Count War",
       "url": "https://poki.com/en/g/count-war",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/9b5338fc5b2adae704de7fafee1afb24/count-war-logo.png",
       "description": "Play Count War on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/bd47f8cf-4104-4de0-a213-804297a5f77f?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/count-war&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=77,385,927,929,933,1014,1141,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/bd47f8cf-4104-4de0-a213-804297a5f77f?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/count-war&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=77,385,927,929,933,1014,1141,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Punchy Guy",
       "url": "https://poki.com/en/g/punchy-guy",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/3e426aa44bb5dba78219fe1bde61293c/punchy-guy-logo.jfif",
       "description": "Play Punchy Guy on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/3a60940f-8357-445f-b10b-30a9819b058a?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/punchy-guy&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,37,80,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/3a60940f-8357-445f-b10b-30a9819b058a?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/punchy-guy&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,37,80,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Decor Life",
       "url": "https://poki.com/en/g/decor-life",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/57df368512a30e2c72a439ab0f23b47f/decor-life-logo.png",
       "description": "Decor Life lets you design rooms in this puzzle game! Clear spaces, unbox furniture, and arrange items to create cozy interiors. Enjoy the cute isometric graphics and satisfying organization. Start de",
-      "embed_url": "https://games.poki.com/458768/917d3a3c-474e-4bac-8f03-e27312b48e67?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/decor-life&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,20,1014,1141,1187,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/917d3a3c-474e-4bac-8f03-e27312b48e67?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/decor-life&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4,20,1014,1141,1187,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Push Titans",
       "url": "https://poki.com/en/g/push-titans",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/70fb07fe7617f4a80e86e6ef08a87d25/push-titans-logo.png",
       "description": "Play Push Titans on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/b069afc6-76d0-494d-a6d7-21e8668ef36e?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/push-titans&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,37,65,66,929,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/b069afc6-76d0-494d-a6d7-21e8668ef36e?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/push-titans&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,37,65,66,929,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Free Skate",
       "url": "https://poki.com/en/g/free-skate",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/ec8f29cfa4554c6ce52416494b1d2004/free-skate-logo.png",
       "description": "Play Free Skate on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/896f34bf-bda4-4e7c-8a82-57736c5069d1?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/free-skate&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,3,93,239,885,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/896f34bf-bda4-4e7c-8a82-57736c5069d1?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/free-skate&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,3,93,239,885,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Sword Road",
       "url": "https://poki.com/en/g/sword-road",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/2ee19ece0ada63c3f28764058a1306b9/sword-road-logo.jfif",
       "description": "Play Sword Road on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/1e55e435-f1c7-49ff-a8e8-68f50f0dfe30?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/sword-road&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,80,93,103,1141,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/1e55e435-f1c7-49ff-a8e8-68f50f0dfe30?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/sword-road&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,80,93,103,1141,1190&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Metamon",
       "url": "https://poki.com/en/g/metamon",
       "source": "Poki",
-      "score": 50,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/9c8a7b008f26722da5c43f43e5d24d3d/metamon-logo.png",
       "description": "Play Metamon on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/37505728-b276-47b8-ac1f-bcc194c5358b?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/metamon&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,6,93,842,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
-    },
-    {
-      "title": "Honk",
-      "url": "https://www.crazygames.com/game/honk",
-      "source": "CrazyGames",
-      "score": 40,
-      "image": "https://imgs.crazygames.com/honk_16x9/20260515092544/honk_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "HONK! Flap your way to the finish while avoiding dangerous obstacles along the path.Create your own levels and share them with the Honk community.",
-      "embed_url": "https://games.crazygames.com/en_US/honk/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
-    },
-    {
-      "title": "KS Z",
-      "url": "https://www.crazygames.com/game/ks-z",
-      "source": "CrazyGames",
-      "score": 40,
-      "image": "https://imgs.crazygames.com/ks-z_16x9/20260515073429/ks-z_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
-      "description": "Discover the exciting shooter KS Z, where tactics meet action on the battlefield in bright stylized 3D graphics. Choose your side, red or blue, each with its own unique arsenal of weapons.Explore a va",
-      "embed_url": "https://games.crazygames.com/en_US/ks-z/index.html?czyExpPauseVideos_CZY_19495=ineligible&isNewUser=false&__nextLocale=en-US&v=1.357"
+      "embed_url": "https://games.poki.com/458768/37505728-b276-47b8-ac1f-bcc194c5358b?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/metamon&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3,6,93,842,1141&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 50
     },
     {
       "title": "Tag",
       "url": "https://poki.com/en/g/tag",
       "source": "Poki",
-      "score": 40,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/32d2b1401c7a86c61fae5afeed977b37/tag-logo.png",
       "description": "Tag is a platformer that challenges you to chase and evade! Navigate vibrant levels, collect coins, and outmaneuver opponents with swift jumps and strategic moves. Play smart to win!",
-      "embed_url": "https://games.poki.com/458768/4cbd654e-3f3e-4507-92b1-572521364188?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/tag&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,9,48,76,228,750,903,929,1126,1201&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/4cbd654e-3f3e-4507-92b1-572521364188?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/tag&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2,9,48,76,228,750,903,929,1126,1201&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 40
     },
     {
       "title": "Ogus",
       "url": "https://poki.com/en/g/ogus",
       "source": "Poki",
-      "score": 40,
       "image": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/06019da7222fa88da3221b761b68f167/ogus-logo.png",
       "description": "Play Ogus on the most popular website for free online games! Poki works on your mobile, tablet, or computer. No downloads, no login. Play now!",
-      "embed_url": "https://games.poki.com/458768/d6350a77-3ace-45e5-838e-dd1285377f3e?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/ogus&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=64,69,91,1014,1018,1122,1141,1171&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q"
+      "embed_url": "https://games.poki.com/458768/d6350a77-3ace-45e5-838e-dd1285377f3e?tag=pg-5576b1ea3ee0184134c2afe54084e67973c2f529&site_id=3&iso_lang=en&country=SG&poki_url=https://poki.com/en/g/ogus&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=64,69,91,1014,1018,1122,1141,1171&ab=3ccbf6adc22ce93465b1c86915096a18fd8e22f2&experiment=a-a17ae9f2&special_condition=landing&user_id=agwrk15za6JqeqQdKhCh0Q",
+      "score": 40
     }
   ]
 }
